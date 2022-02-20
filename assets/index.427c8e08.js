@@ -1,0 +1,1 @@
+import{R as a}from"./react.82c093c3.js";import{c as o}from"./fzj.8815354f.js";const l=({className:t,avatar:r,name:c,onClick:e})=>{const n=s=>{s.stopPropagation(),e&&e()};return a.createElement("div",{className:o("fzj-avatar",t),onClick:n},a.createElement("img",{src:r}),a.createElement("span",null,c))};var p=l;export{p as A};

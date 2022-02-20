@@ -1,0 +1,2037 @@
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title>浮之静</title>
+  <atom:link href="https://lencx.tech/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://lencx.tech</link>
+  <description>浮之静 技术社区</description>
+  <item>
+  <title><![CDATA[如何提升写作技巧？]]></title>
+  <link>https://github.com/lencx/z/discussions/81</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/81</guid>
+  <pubDate>2022-02-17</pubDate>
+  <description><![CDATA[<blockquote>
+<p dir="auto">针对图片内容并结合自身写作经历，做了部分改编</p>
+</blockquote>
+<ul dir="auto">
+<li>更多更广泛的阅读</li>
+<li>每天坚持写作，熟能生巧</li>
+<li>保持一致很重要，找到自己的写作风格</li>
+<li>明确目标，知道自己为何而写作</li>
+<li>了解你的受众，直击他们的痛点</li>
+<li>使用副标题来帮助略读者快速找到重点</li>
+<li>不滥用各种形容词凑字数，简单直接地写作</li>
+<li>惜字如金，保持文章结构的紧凑</li>
+<li>用真实经历并加入一些讲故事的技巧，使文章内容更饱满</li>
+<li>善用关键字和 SEO，以使文章在搜索引擎中获得更高排名</li>
+<li>修改之前先完成初稿，编辑未完成的作品是禁忌，它会减慢你写文章的速度并导致倦怠</li>
+<li>创作完成后，不要急于发布。反复斟酌，会一些发现错误、奇怪的措辞或令人困惑的句子</li>
+<li>从读者那里获得反馈，尽最大努力将更好的想法融入到未来的写作中</li>
+<li>对批评持开放态度，虚心学习，让自己变得更优秀</li>
+</ul>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/154524210-b5d7a923-d517-4012-9be4-1705e25884e0.png"><img src="https://user-images.githubusercontent.com/16164244/154524210-b5d7a923-d517-4012-9be4-1705e25884e0.png" alt="write" style="max-width: 100%;"></a></p>]]></description>
+</item>
+<item>
+  <title><![CDATA[什么字体更适合程序员？]]></title>
+  <link>https://github.com/lencx/z/discussions/80</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/80</guid>
+  <pubDate>2022-02-10</pubDate>
+  <description><![CDATA[<ul dir="auto">
+<li>
+<p dir="auto"><a href="https://github.com/tonsky/FiraCode">Fira Code</a> - 带有连字的免费等宽字体</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/153377008-908b4921-86d6-4ec5-afe7-02b504f6e960.png"><img src="https://user-images.githubusercontent.com/16164244/153377008-908b4921-86d6-4ec5-afe7-02b504f6e960.png" alt="fira code" style="max-width: 100%;"></a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://github.com/ryanoasis/nerd-fonts">Nerd Fonts</a> - 修补了具有大量字形（图标）的开发人员目标字体。特别是从流行的“标志性字体”中添加大量额外的字形，例如 <a href="https://github.com/FortAwesome/Font-Awesome">Font Awesome</a>、<a href="http://vorillaz.github.io/devicons/" rel="nofollow">Devicons</a>、<a href="https://github.com/github/octicons">Octicons</a>等。3,600 多个图标，50 多种修补字体，如 Hack、Source Code Pro 等。<br>
+​<br>
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/153377057-7121dc84-fff2-4610-b6cd-a651899972b7.png"><img src="https://user-images.githubusercontent.com/16164244/153377057-7121dc84-fff2-4610-b6cd-a651899972b7.png" alt="nerd fonts" style="max-width: 100%;"></a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://www.typography.com/fonts/operator/styles" rel="nofollow">Operator Mono</a> - 对编码友好的字体，Operator Mono 字体本身并不支持类似于 Fira Code 的连字，但是在社区有个工具专门针对 Operator Mono 字体做连字处理。<br>
+​<br>
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/153377101-7d513eb1-bd33-410d-b3c9-5b2edf58010f.png"><img src="https://user-images.githubusercontent.com/16164244/153377101-7d513eb1-bd33-410d-b3c9-5b2edf58010f.png" alt="operator" style="max-width: 100%;"></a></p>
+</li>
+</ul>
+<h2 dir="auto">制作连字的 Operator Mono 字体</h2>
+<h3 dir="auto">第一步：下载项目</h3>
+<p dir="auto">首先要有 Operator Mono 字体（网上自行搜索），然后访问下面这个项目，下载到本地。</p>
+<ul dir="auto">
+<li>项目： <a href="https://github.com/kiliman/operator-mono-lig">https://github.com/kiliman/operator-mono-lig</a> - 向 Operator Mono 添加连字，类似于 Fira Code。</li>
+<li>压缩包下载链接：<a href="https://github.com/kiliman/operator-mono-lig/archive/refs/tags/v2.4.1.zip">点击下载</a></li>
+</ul>
+<h3 dir="auto">第二步：前置环境准备</h3>
+<blockquote>
+<p dir="auto">如果遇到环境安装问题，可以在评论区交流</p>
+</blockquote>
+<ul dir="auto">
+<li>Operator Mono 字体文件</li>
+<li>Python (v2.7+)</li>
+<li>Node.js</li>
+<li>从 <a href="https://github.com/fonttools/fonttools">fonttools/fonttools</a> 安装 fonttools
+<ul dir="auto">
+<li>Windows/Linux: <code>pip install fonttools</code></li>
+<li>注意事项:  对于 Windows，如果您的 Python 位于 <code>C:\PythonX</code> 下，您应该使用具有管理权限的控制台</li>
+<li>注意事项: 对于 WSL/WSL2 中的 Linux，请确保安装后将 <code>fonttools</code> 添加到 PATH。或者，考虑通过 <code>sudo apt install fonttools</code> 安装。</li>
+<li>Mac: <code>pip3 install fonttools</code></li>
+</ul>
+</li>
+</ul>
+<h3 dir="auto">第三步：安装依赖及构建</h3>
+<ol dir="auto">
+<li>
+<p dir="auto">压缩包解压，然后进入到文件夹下执行</p>
+<div class="highlight highlight-source-shell position-relative overflow-auto" data-snippet-clipboard-copy-content="# 使用 npm 安装可能会出现 node-gyp 之类的错误，可以尝试使用 yarn 安装
+npm install"><pre><span class="pl-c"><span class="pl-c">#</span> 使用 npm 安装可能会出现 node-gyp 之类的错误，可以尝试使用 yarn 安装</span>
+npm install</pre></div>
+</li>
+<li>
+<p dir="auto">将 Operator Mono字体文件放到 original 目录下，然后执行脚本</p>
+<div class="highlight highlight-source-shell position-relative overflow-auto" data-snippet-clipboard-copy-content="# Windows
+build
+
+# Linux/Mac
+./build.sh"><pre><span class="pl-c"><span class="pl-c">#</span> Windows</span>
+build
+
+<span class="pl-c"><span class="pl-c">#</span> Linux/Mac</span>
+./build.sh</pre></div>
+</li>
+<li>
+<p dir="auto">生成的 Operator Mono Lig 字体在 build 文件夹下，点击安装即可</p>
+</li>
+</ol>
+<h3 dir="auto">字体效果预览</h3>
+<p dir="auto"><a href="https://github.com/lencx/z/discussions/41" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/41/hovercard">我的 vscode 配置</a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/153384949-c4f7612c-71b1-42c1-9d6c-775ed53b8b99.png"><img src="https://user-images.githubusercontent.com/16164244/153384949-c4f7612c-71b1-42c1-9d6c-775ed53b8b99.png" alt="font preview" style="max-width: 100%;"></a></p>]]></description>
+</item>
+<item>
+  <title><![CDATA[lencx 语录]]></title>
+  <link>https://github.com/lencx/z/discussions/74</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/74</guid>
+  <pubDate>2022-02-06</pubDate>
+  <description><![CDATA[<blockquote>
+<p dir="auto">此语录，无任何意义，仅记录生活中的所思所感...</p>
+</blockquote>
+<h2 dir="auto">学习</h2>
+<ul dir="auto">
+<li>要学会把问题交给搜索引擎，而不是把群友当成搜索引擎。</li>
+<li>同样一个问题，用百度和 <a href="https://bing.com/" rel="nofollow">Bing</a>（有能力的用 <a href="https://www.google.com/" rel="nofollow">Google</a>） 对比一下就知道了。</li>
+<li>学习技术，先扫一遍文档，从最基本的开始搭建学习，功能一点点的增加进来。边看边实践，敲键盘也会加深记忆。</li>
+<li>优秀一天容易，难的是一直优秀。</li>
+<li>一篇好文章，更像是一根线，而不是一团麻。极客精神，以风趣幽默的方式解释清楚一切细节。</li>
+<li>学到一句话：经验这个东西，就是越多越好，可以不去做，但是不能不知道。</li>
+<li>有问题不可怕，可怕的是，不知道怎么和问题去相处。</li>
+<li>答案是最无用的东西，因为它是一个问题的处理结果，是由过程分析推理得出来的，过程推理不出，而选择去背答案是最无效的学习方式，毫无意义！</li>
+<li>学习就是从懵逼到膨胀的一个死循环 <g-emoji class="g-emoji" alias="arrows_counterclockwise" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f504.png">🔄</g-emoji></li>
+<li>以后再也不敢说自己是在自学了。没有基础作为指导，只能算是瞎学，乱学。看完<a href="https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md">《自学计算机科学》</a>这份书单，才发现自己对计算机一无所知。</li>
+<li>真正的高效工作，是首先先学会如何解放自己。</li>
+<li>骨头是不好啃，自己要先啃几口，才有发言权。别还没啃，就说太硬了。（软饭吃多了，牙也变软了）</li>
+<li>遇到问题自己不思考，不尝试，就没有资格把这个问题抛出来。（踢皮球并不能让自己成长）</li>
+<li>学会自我总结， 一步一个脚印，别总想着有人可以帮你。（外力终究不是自己的）</li>
+<li>知识就是这样的，会一点点进入你的视野。但是前提，你要保持好奇心，并且不断地尝试。</li>
+<li>人的思想蜕变，不是一瞬间产生的，而是不断起伏的人生带给你的。</li>
+<li>学习是自己的事情（信息的收发建立在共识之上），没有人可以真正帮助你。有所收获，最该感谢的人其实是自己。</li>
+<li>学习是一件痛苦的事情，开始享受这个过程，或许就是自己在努力汲取养分生长吧。</li>
+</ul>
+<h2 dir="auto">思考</h2>
+<ul dir="auto">
+<li>学习其实就是用到什么学什么，能否快速掌握一门技术，和你学了多少门技术其实没有太大关系（要学的东西应该是技术背后的通用思想）。分析，思考，解决问题的能力，也并不是你接触的技术所能带给你的。因为知识是死的，而人却是活的，所以这些能力的培养和养成其实是一个主动行为。<code>未知知识学习 = 拓展阅读（已有知识中的未知部分） + 信息源（领域大牛）+ 已有知识 + 经验推导</code></li>
+<li>有人问我该如何学习，其实我也不知道，当我迷茫时，就强迫自己静下心来写一个项目，不断地解决问题，然后就会变得很享受。问题不是凭空出现的，遇到的时候，你就会去搜寻各种解决方案，这就是学习。有些人最大的问题就是在遇到问题时第一时间把问题抛给别人，把群友当成搜索引擎。没有思考，没有尝试，也就不能够形成自己解决问题的方法论。</li>
+</ul>
+<h2 dir="auto">日常</h2>
+<ul dir="auto">
+<li>感谢所有夸我的人，说句实话，我不 NB，在技术群里，大部分人的能力都要比我强，我只是比较张扬而已。</li>
+<li>任何话题都是技术交流，代码不是全部。</li>
+<li>不信鬼神，但对未知还是要保持敬畏之心。</li>
+<li>群里虽然前端居多，似乎更应该发和前端相关的内容。但一切皆知识，路应该越走越宽。专精于 xxx 或许没错，但只有 xxx，视野过于被局限，会少了很多灵感碰撞及其他可能性。（广度与深度该如何抉择）</li>
+<li>彩票属于不确定的意外之财，讨论这个没啥意义。运气不是每个人都有的，现实点。（学会自我催眠）</li>
+<li>我写的文章没啥技术含量，手撕不动，脑子也不怎么灵活，基础更是一塌糊涂。</li>
+<li>我想明白了一些事情：欲望就好比握在手中的沙子，不握紧，会流失。握紧了，只会流的更快。因为想要获得，各种复杂的情绪就产生了，兴奋，焦虑… 如果放弃了所有的欲，一切便会回归于无。</li>
+<li>当一些东西变得重复与机械的时候，也就失去了原本的兴趣。</li>
+<li>自省只是不想让自己太飘，因为人是社会性动物，他人的评价或多或少都会对自己产生影响。</li>
+<li>知识，技术可以变现，但是丢掉原则，就不再是一个技术人了。</li>
+<li>本以为自己只是走了两三年的弯路，谁知从未走出...</li>
+<li>开源其实是一件很简单的事情，你想做，就可以去做。</li>
+<li>人更喜欢相信自己看到的。很少有人去思考，你所看到的是不是别人故意给你看的？（眼见不一定为实）</li>
+<li>以前我也认为只要学会独立思考就够了，但是后来我发现，如果你所看到的一切都是假象，那么基于它做出思考将是一件可怕的事情。（价值观坍塌）</li>
+<li>眼界，思考，质疑，都很重要。</li>
+<li>当对一切失去了怀疑的态度，会让你觉得它就是权威，不会出错。这是很可怕的事情。（盲目崇拜）</li>
+<li>做你认为对的事情，就不存在浪费时间一说。</li>
+<li>有人说：“大多数的成功来源于勇气，似乎越成熟，越丧失了追求的勇气”。但是我认为不是越活越没勇气，而是人学会了算计，会去计较得失，才变得畏手畏脚。（冲动是魔鬼，太过于理智，生活也就少了一些色彩）</li>
+<li>一定要学会享受过程。结果很重要，但是如果真的有一天你可以直接到达这个结果的时候，未必是快乐的。（出生的结局就是死亡）</li>
+<li>没有学会取舍，才会让自己那么累。（放下也是一种智慧）</li>
+<li>我不想努力了，可是没钱。钱不是那么重要，但是没有它，可能会过的很惨。（衣食住行）</li>
+<li>这个世界是动态的，一切都在变化，人也如此。（保持初心）</li>
+<li><a href="https://zh.wikipedia.org/wiki/%E5%AF%8C%E7%88%B8%E7%88%B8%C2%B7%E7%AA%AE%E7%88%B8%E7%88%B8" rel="nofollow">穷爸爸富爸爸</a>告诉我们，起点大于努力。（生的好也很重要）</li>
+</ul>
+<h2 dir="auto">吐槽</h2>
+<ul dir="auto">
+<li>做任何事都是需要指标的，没有高标准，就不会把事情做到极致。但是国内忽视了一些东西，或者说不愿意去面对实际场景，“拍脑袋”和“我以为”就是标准。KPI 最终沦为了老板们的大屏数据，似乎数据代表一切...</li>
+<li>说句难听的，国人有能力的不少，但是创造的东西，真不咋样，很难有思维上的突破，到处都是“借鉴”。</li>
+<li>国外做开源的很多可能就是个学生，普通程序员，没啥 title，吊打国内一大批程序员；级别，title 是越封越高，能力倒是没见涨。</li>
+<li>国人不务实，很多都是面子工程，这莫非是大环境“造就”的？</li>
+<li>这两年看到比较多的消息就是 xxx 开源库作者因精力有限，放弃对其的维护工作。这都是白嫖，不返哺社区的结果。</li>
+<li>某度搜索并不适合程序员，查找问题效率低下，结果百分之八九十都是垃圾。（工具很重要）</li>
+<li>一个技术社区如果东西“杂了”，技术就变得不再纯粹。（四不像）</li>
+<li><a href="https://nodejs.org/en/" rel="nofollow">Node</a> 再卷，感觉都要卷到 <a href="https://v8.dev/" rel="nofollow">V8</a>，<a href="https://isocpp.org/" rel="nofollow">C++</a> 了，而我只是个前端切图仔。</li>
+<li>技术如果不纯粹就会变得畸形，写文章首要目标是思考沉淀，其次是分享传播帮助他人，最后才会考虑技术变现，但很多所谓的“作者”似乎本末倒置了。</li>
+<li>看似是要求越来越低，实则社会在教我做人。（认清现实）</li>
+<li>轮子哥，造轮子的速度比我用轮子的速度还快。（与大佬的差距）</li>
+<li>垃圾公众号看多了，人都变傻了。天天卖课，真烦...</li>
+<li>公众号其实就是收割流量的，既然那么多干货，为啥不写成 blog，因为写成 blog 就没多少干货了，公众号基本百分之七八十都是在转载，写成 blog 哪有那么多文章。如果你关注了 100 个前端公众号，一篇文章你起码可以在几十个公众号看到，有啥意义？还有一大堆是卖课的。一百个能有十个，可能都是比较乐观的估计，十不存一...</li>
+<li>我觉得很多人就喜欢混为一谈，学习的本质是为了什么？是为了吃透一门技术，掌握一门技能，还是说只是为了更好的赚钱。（多问问自己想要什么）</li>
+</ul>
+<h2 dir="auto">非原创</h2>
+<ul dir="auto">
+<li>科技造神的祭坛下，是无数沉迷于低级娱乐与表面思考的终端消费者。但他们不得不为此付费，甚至久而久之，他们会下意识地维护这套病态逻辑。</li>
+<li>编程的历史就是“更少代码”的历史：寻找更好的抽象，并构建库来实现这些抽象。</li>
+<li>No problem can be solved from the same level of consciousness that created it. （重大问题的解决方案永远不可能在产生这个问题的维度出现。） -- <code>Albert Einstein</code></li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[浏览器发展史]]></title>
+  <link>https://github.com/lencx/z/discussions/78</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/78</guid>
+  <pubDate>2022-01-08</pubDate>
+  <description><![CDATA[<blockquote>
+<p dir="auto">计算机世界是对现实世界的映射。当事物变得无法理解时，去源头找找，或许就明白了。</p>
+</blockquote>
+<h2 dir="auto">Chrome 100</h2>
+<p dir="auto">在 2022 上半年，<a href="https://www.google.com/intl/en_us/chrome/" rel="nofollow">Chrome</a> 将达到三位数的主版本号：<code>100</code>！浏览器在很久以前第一次达到版本 <code>10</code> 时，因为主要版本号从一位数变为两位数，用户代理解析库发现了许多问题（<a href="https://maqentaer.com/devopera-static-backup/http/dev.opera.com/articles/view/opera-ua-string-changes/index.html" rel="nofollow">Changes in Opera’s user agent string format</a>）。现在在 Chrome 和 <a href="https://www.mozilla.org/en-US/firefox/new/" rel="nofollow">Firefox</a> 中都接近版本 <code>100</code>，<a href="https://www.microsoft.com/en-us/edge" rel="nofollow">Edge</a> 也不甘落后。当 Chrome 达到 <code>100</code> 版，将会导致一些网站不工作。谷歌已经开始调查和测试解决方案。</p>
+<p dir="auto">根据 <a href="https://bugs.chromium.org/p/chromium/issues/detail?id=1273958" rel="nofollow">Chromium Bug Tracker</a> ，已知受到影响的网站主要是使用网页设计工具 <a href="https://www.duda.co/" rel="nofollow">Duda</a> 开发的网站。这些网站都使用相同的代码来检查用户使用的 Chrome 版本。</p>
+<h3 dir="auto">案例</h3>
+<p dir="auto">以 Chrome 为例，用户代理字符串为 <code>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36</code></p>
+<p dir="auto">字符串最后，可以看到我们要寻找的是 <code>Chrome/96.0.4664.110</code>，它为我们提供了浏览器的准确版本号。但是，大多数 Web 开发人员可能只关心主要版本号，即 <code>96</code>。</p>
+<p dir="auto">由于用户代理字符串是文本，开发人员需要自行提取信息以满足业务需求。对于 Duda，开发人员选择只读取 <code>Chrome/</code> 之后的前两位数字。这意味着 <code>Chrome/99</code> 将是 <code>99</code>， <code>Chrome/100</code> 将被视为版本 <code>10</code>。</p>
+<p dir="auto">而 Duda（2015 年发布的版本）会自动阻止低于 <code>Chrome 40</code> 的版本，<code>Chrome 99</code> 之后的每个版本（100 - 109）的浏览器都将被视为版本 <code>10</code>，因此被阻止。</p>
+<p dir="auto">目前 Duda 已经修复了此问题（<a href="https://blog.duda.co/chrome-100-bug-was-fixed-months-before-the-new-version-s-actual-release" rel="nofollow">Chrome 100 Bug Was Fixed Months Before The New Version's Actual Release</a>）</p>
+<h3 dir="auto">检测与反馈</h3>
+<p dir="auto">通过访问 <a href="https://is-chrome-100-yet.glitch.me/" rel="nofollow">Is Chrome 100 yet?</a> 可以检查浏览器是否在 <code>User-Agent</code> 字符串中发送主要版本 100。</p>
+<p dir="auto">为了尽早检测三位数版本号可能导致的问题，在它成为现实前做好准备。我们可以在 Chrome 设置中开启 <code>User-Agent</code> 为 <code>100</code> 的主版本（<a href="https://developer.chrome.com/blog/force-major-version-to-100/" rel="nofollow">Force Chrome major version to 100 in the User-Agent string</a>）来对网站进行测试。</p>
+<ol dir="auto">
+<li>访问 <code>Is Chrome 100 yet?</code>，页面返回 <code>Yes!</code> 或 <code>No.</code>；</li>
+<li>打开 Chrome 浏览器并在地址栏中输入 <code>chrome://flags</code>；</li>
+<li>将打开一个包含可用实验的页面， 找到 <code>User-Agent</code> 中启用强制主要版本为 <code>100</code> 的选项（<code>Force major version to 100 in User-Agent</code>）。然后重新访问步骤 1。</li>
+</ol>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/148090031-94b97eba-2555-46d2-be78-c3e53da9e4d7.gif"><img src="https://user-images.githubusercontent.com/16164244/148090031-94b97eba-2555-46d2-be78-c3e53da9e4d7.gif" alt="chrome-100" style="max-width: 100%;"></a></p>
+<p dir="auto">成功开启后，然后测试自己的网站。如果发现问题，可以将错误报告发送至 <a href="https://webcompat.com/issues/new?label=version100" rel="nofollow">Web Compat</a> 以帮助 Web 浏览器准备三位数的主版本号！</p>
+<h2 dir="auto">里程碑</h2>
+<p dir="auto"><a href="https://www.mozilla.org/zh-CN/firefox/browsers/browser-history/" rel="nofollow">Web 浏览器简史</a> - 世界历史从不缺少史诗般的权力斗争，有征服世界的暴君，也有落败的勇士。Web 浏览器的历史也大抵如此。学术先驱们编写出引发信息革命的简易软件，并为浏览器的优势和互联网用户而战。</p>
+<p dir="auto">在<a href="https://computerhistory.org/blog/happy-25th-birthday-to-the-world-wide-web/" rel="nofollow">《万维网 25 岁生日快乐》</a>中可以了解更多网络诞生的相关信息。</p>
+<h3 dir="auto">Mosaic</h3>
+<p dir="auto"><a href="https://developers.whatismybrowser.com/useragents/explore/software_name/mosaic/" rel="nofollow">Mosaic User Agents</a> - <code>NCSA_Mosaic/2.0 (Windows 3.1)</code></p>
+<p dir="auto"><a href="https://zh.wikipedia.org/wiki/Mosaic" rel="nofollow">NCSA Mosaic</a>，是一个早期普及的网页浏览器，也是互联网协议如 FTP、NNTP 和 Gopher 的客户端，浏览器因支持多种互联网协议而命名。其直观的接口、可靠性和简易安装，因此在当时大受欢迎，也是第一个可以在文字中嵌入图片，而不是在单独的窗口中显示图片的浏览器。</p>
+<p dir="auto">Mosaic 是引发 1990 年代互联网泡沫的网页浏览器。1992 年 11 月，世界上只有仅仅 26 个网站，每一个网站都受人注目。1993 年，Mosaic 推出了一个叫做 <code>What’s New</code> (<a href="https://www.w3.org/MarkUp/html-test/ncsa/whats-new.html" rel="nofollow">What's New With NCSA Mosaic</a>) 的页面，几乎每天都会提供给大家一个全新网站的链接。这段期间，互联网的使用率正在由学术界和大型工业研究机构之外迅速普及。然而，这正是 Mosaic 浏览器的易用性推动了网络爆发性的成长，到了 1995 年 8 月，网站数量已经超过了一万个，1998年达到了数百万个网站数量。</p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/148152583-30cc6ea6-5703-4043-bfaf-ed88f8d41aae.png"><img width="600" alt="Mosaic" src="https://user-images.githubusercontent.com/16164244/148152583-30cc6ea6-5703-4043-bfaf-ed88f8d41aae.png" style="max-width: 100%;"></a></p>
+<h3 dir="auto">Mozilla</h3>
+<p dir="auto"><a href="https://www.whatismybrowser.com/guides/the-latest-user-agent/firefox" rel="nofollow">Firefox User Agents</a> - <code>Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:95.0) Gecko/20100101 Firefox/95.0</code></p>
+<p dir="auto"><a href="https://zh.wikipedia.org/wiki/Mozilla" rel="nofollow">Mozilla</a> 是一个自由软件社群，由网景通信公司的成员于 1998 年创立。在非正式的场合下，“Mozilla” 这个名字常用于不同的事物上。这些事物大都与现已歇业的网景通信公司及其旗下的应用软件相关。</p>
+<p dir="auto">最初，“Mozilla” 被用作 <a href="https://zh.wikipedia.org/wiki/%E7%BD%91%E6%99%AF%E5%AF%BC%E8%88%AA%E8%80%85" rel="nofollow">网景导航者（Netscape Navigator）</a> 的开发代号。网景通信公司希望“网景导航者”能够取代当时世界第一的 Mosaic，而这个名字由 “Mosaic Killa”（Killa 是俚语中 Killer 的拼法）变化而来，并与经典的虚拟怪物哥斯拉谐趣：“Godzilla eat the Mosaic”，即 <code>Mosaic + Godzilla + Killa = Mozilla</code>，Netscape 工程师杰米·加文斯基说他是在一次 Netscape 员工会议上想到这个名字的。</p>
+<p dir="auto"><a href="https://zh.wikipedia.org/wiki/Firefox%E7%80%8F%E8%A6%BD%E5%99%A8" rel="nofollow">Mozilla Firefox</a>，通称 Firefox，中文也通称“火狐”，是一个自由及开源的网页浏览器，由 Mozilla 基金会及其子公司 Mozilla 公司开发。Firefox 于 2002 年由 Mozilla 社群成员创建，当时叫做“Phoenix”。Firefox 于 2004 年 11 月首次发布，并且 9 个月内下载量超过 6,000 万，获取了巨大的成功，Internet Explorer的主导地位首次受到了挑。其被认为是 <code>Netscape Navigator</code> 的精神续作。</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/148161694-b00cc46b-aa73-47f8-843b-0b9bddbaaec5.png"><img width="120" alt="Netscape" src="https://user-images.githubusercontent.com/16164244/148161694-b00cc46b-aa73-47f8-843b-0b9bddbaaec5.png" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/148197465-02e5927a-238f-4c58-9ecb-dbfe3c50572f.png"><img height="50" width="56" alt="Mozilla" src="https://user-images.githubusercontent.com/16164244/148197465-02e5927a-238f-4c58-9ecb-dbfe3c50572f.png" style="max-width: 100%;"></a>  <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/148196860-57901b6c-fe9b-423d-bdf3-46104bd0f0a4.png"><img height="36" width="36" alt="Firefox" src="https://user-images.githubusercontent.com/16164244/148196860-57901b6c-fe9b-423d-bdf3-46104bd0f0a4.png" style="max-width: 100%;"></a></p>
+
+<h3 dir="auto">Internet Explorer</h3>
+<p dir="auto"><a href="https://developers.whatismybrowser.com/useragents/explore/software_name/internet-explorer/" rel="nofollow">Internet Explorer User Agents</a> - <code>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)</code></p>
+<p dir="auto"><a href="https://zh.wikipedia.org/wiki/Internet_Explorer" rel="nofollow">Internet Explorer</a>（旧称 Microsoft Internet Explorer 和 Windows Internet Explorer，简称 IE 或 MSIE），是微软所开发的图形用户界面网页浏览器。自从 1995 年开始，内置在各个新版本的 Windows 操作系统，也是微软 Windows 操作系统的一个组成部分。</p>
+<p dir="auto">Internet Explorer 曾是使用最广泛的网页浏览器，在 2002 年和 2003 年达到 95% 的使用率高峰。微软以捆绑方式赢得与 Netscape 的第一次浏览器大战，Netscape 是 1990 年代的主流浏览器。</p>
+<p dir="auto">Internet Explorer 计划由托马斯·里尔登开始于 1994 年夏天，当时 Netscape Navigator 占据浏览器市场份额 70% 以上。竞争对手苹果公司的 Mac OS 更使用 Netscape 作为默认的浏览器，但当时的 Windows 没有一个默认的浏览器。微软需要有一个自己的浏览器，但它没有时间从零开始创造一个浏览器。因此和 Spyglass 合作，Internet Explorer 从早期一款商业性的专利网络浏览器 Spyglass Mosaic 派生出来。</p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/148623860-826f0ced-0f6d-48e6-9919-8db6f028178f.png"><img width="40" alt="Opera" src="https://user-images.githubusercontent.com/16164244/148623860-826f0ced-0f6d-48e6-9919-8db6f028178f.png" style="max-width: 100%;"></a></p>
+<h3 dir="auto">Opera</h3>
+<p dir="auto"><a href="https://www.whatismybrowser.com/guides/the-latest-user-agent/opera" rel="nofollow">Opera User Agent</a> - <code>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.43</code></p>
+<p dir="auto">Opera 是由 Opera 软件为个人电脑推出的网页浏览器，用于 Microsoft Windows、macOS 和 Linux 操作系统。</p>
+<p dir="auto">1996 年首次公开发布 Opera 2.0 版本，但仅在 Microsoft Windows 上运行。1998 年开始开发第一款用于移动设备平台浏览器。</p>
+<p dir="auto">Opera 在 2013 年以后采用 <a href="https://zh.wikipedia.org/wiki/Blink" rel="nofollow">Blink</a> <a href="https://zh.wikipedia.org/wiki/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%BC%95%E6%93%8E" rel="nofollow">排版引擎 （layout engine）</a>。此前 Opera 版本曾采用 <a href="https://zh.wikipedia.org/wiki/Presto" rel="nofollow">Presto</a> 排版引擎，并在 FreeBSD 系统上运行。</p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/148196998-4cc118c7-ef67-45da-abd0-c7dd761b9876.png"><img width="40" alt="Opera" src="https://user-images.githubusercontent.com/16164244/148196998-4cc118c7-ef67-45da-abd0-c7dd761b9876.png" style="max-width: 100%;"></a></p>
+<h3 dir="auto">Safari</h3>
+<p dir="auto"><a href="https://www.whatismybrowser.com/guides/the-latest-user-agent/safari" rel="nofollow">Safari User Agent</a> - <code>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15</code></p>
+<p dir="auto"><a href="https://zh.wikipedia.org/wiki/Safari" rel="nofollow">Safari 浏览器</a> 是苹果公司所开发，并内置于 macOS（前称 OS X、Mac OS X）、iOS 与 iPadOS 的网页浏览器。Safari 浏览器在 2003 年 1 月 7 日首度发行测试版，并从 Mac OS X Panther 开始成为 Mac OS X 的默认浏览器，也是 iOS 和 iPadOS 内置的默认浏览器。Windows 版本的首个测试版在 2007 年 6 月 11 日推出，支持 Windows XP、Windows Vista 和 Windows 7，并在 2008 年 3 月 18 日推出正式版，但苹果已于 2012 年 7 月 25 日停止开发 Windows 版的 Safari 浏览器。</p>
+<p dir="auto">在 1997 年以前，Mac 预装的浏览器是 Netscape Navigator。之后苹果和微软达成协议，以在 Mac 上使用 Internet Explorer for Mac 作默认浏览器换取微软开发 Mac 版的 Microsoft Office。</p>
+<p dir="auto">2003 年 1 月 7 日，在旧金山举行的 Macworld 大会上，史提夫·乔布斯宣布苹果正在开发自己的浏览器，称为 Safari 浏览器。它基于苹果的 KHTML 排版引擎内部分支，称为 WebKit。直至 2003 年 6 月，苹果才推出自家的 Safari 浏览器，同时微软也终止开发苹果版的 IE 浏览器。Mac OS X v10.3 仍保留 IE，但至 10.4 版苹果就仅预装 Safari 浏览器。</p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/148197909-e3804f8c-dfff-44b8-b9b6-dea9424274e8.png"><img width="40" alt="Safari" src="https://user-images.githubusercontent.com/16164244/148197909-e3804f8c-dfff-44b8-b9b6-dea9424274e8.png" style="max-width: 100%;"></a></p>
+<h3 dir="auto">Chrome</h3>
+<p dir="auto"><a href="https://www.whatismybrowser.com/guides/the-latest-user-agent/chrome" rel="nofollow">Chrome User Agent</a> - <code>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36</code></p>
+<p dir="auto">Google Chrome 是由 Google 开发的免费网页浏览器，过去也用 Chrome 称呼浏览器的外框。Chrome 相应的开放源代码计划名为 <a href="https://zh.wikipedia.org/wiki/Chromium" rel="nofollow">Chromium</a>，而 Google Chrome 本身是非自由软件，未开放源代码。</p>
+<p dir="auto">Chrome 代码是基于其他开放源代码软件所编写，包括 <a href="https://zh.wikipedia.org/wiki/Apple_WebKit" rel="nofollow">Apple WebKit</a>（其分支 Blink 被用于基于 Chromium 的网页浏览器） 和 Mozilla Firefox，并开发出称为 <a href="https://zh.wikipedia.org/wiki/V8_(JavaScript%E5%BC%95%E6%93%8E)" rel="nofollow">V8</a> 的高性能 <a href="https://zh.wikipedia.org/wiki/JavaScript%E5%BC%95%E6%93%8E" rel="nofollow">JavaScript引擎</a>。Google Chrome 的整体发展目标是提升稳定性、速度和安全性，并创造出简单且有效率的用户界面。</p>
+<p dir="auto">Chrome 50 结束了对 Windows XP 与 Windows Vista 系统的支持，这两个系统上的最后版本为 49.0.2623.112。</p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/148198071-c4a01fbd-0fc9-4ed9-9580-ac562af09f95.png"><img width="40" alt="Safari" src="https://user-images.githubusercontent.com/16164244/148198071-c4a01fbd-0fc9-4ed9-9580-ac562af09f95.png" style="max-width: 100%;"></a></p>
+<h2 dir="auto">User-Agent 大乱斗</h2>
+<blockquote>
+<p dir="auto"><g-emoji class="g-emoji" alias="see_no_evil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f648.png">🙈</g-emoji>  浏览器用户代理字符串（<code>navigator.userAgent</code>）一团糟，几乎没用，每个浏览器都假装是其他浏览器，混乱不堪。</p>
+</blockquote>
+<p dir="auto">具体可以查看这篇文章 <a href="https://webaim.org/blog/user-agent-string-history/comment-page-1/" rel="nofollow">《History of the browser user-agent string》</a>，以风趣幽默的方式介绍了浏览器之间的“尔虞我诈”，“勾心斗角”，堪比 <a href="https://baike.baidu.com/item/%E5%AE%AB%E6%96%97/130784" rel="nofollow">宫斗</a>。</p>
+<p dir="auto">一般来说，如果一个网站需要知道你使用的是什么浏览器以及它的更新程度，它会检查所谓的“用户代理字符串”。这是浏览器附加到它建立的每个网络连接的一小段文本，让网站了解自己。如果分解用户代理字符串实际所说的内容，会发现很多杂乱无章的东西，其中大部分内容是为了保持与 1990 年代和 2000 年代初期的站点的兼容性。所以说有时候 <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Browser_detection_using_the_user_agent" rel="nofollow">使用用户代理字段进行浏览器检测</a> 并不是一个好主意。</p>
+<p dir="auto">用户代理字符串有各种形状和大小，唯一用户代理的数量一直在增长。<a href="https://developers.whatismybrowser.com/useragents/explore/" rel="nofollow">List of User Agents</a> 中收集了数以百万计的用户代理，并根据检测到的许多内容（操作系统、浏览器、硬件类型、浏览器类型等）进行分类。</p>
+<h3 dir="auto">关键事件</h3>
+<blockquote>
+<p dir="auto">摘自《History of the browser user-agent string》</p>
+</blockquote>
+<ul dir="auto">
+<li>
+<p dir="auto">一开始有 NCSA Mosaic，Mosaic 自称 <code>NCSA_Mosaic/2.0 (Windows 3.1)</code>，Mosaic 在显示图片的同时也显示文字，大家都很欢欣鼓舞。</p>
+</li>
+<li>
+<p dir="auto">后来出现了一个新的浏览器，叫做 “Mozilla”，是 “Mosaic Killer” 的缩写，但 Mosaic 并不高兴，所以公开名称改为 Netscape。Netscape 自称 <code>Mozilla/1.0（Win3.1）</code>，人们更加欢欣鼓舞。Netscape 支持 <a href="https://en.wikipedia.org/wiki/Frame_(World_Wide_Web)" rel="nofollow">Frames（框架）</a>，Frames 在人们中间流行起来，但 Mosaic 不支持 Frames，于是就出现了 "用户代理嗅探（user agent sniffing）"，网络管理员向 "Mozilla "发送 Frames，但向其他浏览器发送的不是 Frames。</p>
+</li>
+<li>
+<p dir="auto">网景取笑微软，把 Windows 说成是 "调试不力的设备驱动程序"，微软很生气。于是，微软制造了他们自己的网络浏览器，他们称之为 IE（Internet Explorer），希望它能成为 "网景杀手"。Internet Explorer 虽然支持 Frames，但并不是 Mozilla，所以没有被赋予 Frames。微软变得不耐烦了，不希望等待网络管理员了解 IE 并开始向它发送 Frames，因此 IE 浏览器宣布它是 "Mozilla compatible（Mozilla 兼容的）"，并开始冒充网景，称自己为 <code>Mozilla/1.22 (compatible; MSIE 2.0; Windows 95)</code>，IE 浏览器收到了 Frames，整个微软都很高兴，但网络管理员感到困惑。</p>
+</li>
+<li>
+<p dir="auto">微软将 IE 与 Windows 一起出售，并使其比网景更好，第一次浏览器战争在这片土地上肆虐。看吧，网景被干掉了，微软方面一片欢腾。但网景重生为 Mozilla，Mozilla 建立了 <a href="https://zh.wikipedia.org/wiki/Gecko" rel="nofollow">Gecko</a>，并称自己为 <code>Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826</code>，Gecko 是渲染引擎，Gecko 很好。而 Mozilla 变成了 Firefox，并称自己为 <code>Mozilla/5.0 (Windows; U; Windows NT 5.1; sv-SE; rv:1.7.5) Gecko/20041108 Firefox/1.0</code>，Firefox 非常好。而 Gecko 开始成倍增长，其他浏览器的诞生也使用了它的代码，它们自称为 <code>Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.7.2) Gecko/20040825 Camino/0. 8.1</code> 这一个，和 <code>Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.8.1.8) Gecko/20071008 SeaMonkey/1.0</code> 另一个，每一个都假装是 Mozilla，而且都是由 Gecko 驱动。</p>
+</li>
+<li>
+<p dir="auto">Gecko 是好的，而 IE 不是，嗅觉重生，Gecko 被赋予了很好的 web 代码，其他浏览器则不然。而 Linux 的追随者则非常悲伤，因为他们建立了 <a href="https://zh.wikipedia.org/zh-tw/Konqueror" rel="nofollow">Konqueror</a>，其引擎是 <a href="https://zh.wikipedia.org/wiki/KHTML" rel="nofollow">KHTML</a>，他们认为它和 Gecko 一样好，但它不是 Gecko，所以没有得到好的网页，于是 Konquerer 开始假装 "like Gecko"，以获得好的网页，并称自己为 <code>Mozilla/5.0 (compatible; Konqueror/3.2; FreeBSD)</code>（KHTML，like Gecko），出现了很多混乱。</p>
+</li>
+<li>
+<p dir="auto">苹果建立了 Safari，使用 KHTML，增加了许多功能。分叉（Fork）了该项目，称之为 WebKit，希望为 KHTML 编写页面，因此 Safari 自称为 <code>Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/85.7 (KHTML, like Gecko) Safari/85.5</code>，情况越来越糟。</p>
+</li>
+<li>
+<p dir="auto">微软对火狐的恐惧很大，IE 浏览器又回来了，并自称 <code>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0)</code>，它能渲染好的代码，但只有在网站管理员命令它这样做的情况下。</p>
+</li>
+<li>
+<p dir="auto">谷歌建立了 Chrome，Chrome 使用 Webkit，它就像 Safari 一样，想要为 Safari 制作页面，所以假装是 Safari。于是 Chrome 使用 WebKit，并假装是 Safari，WebKit 假装是 KHTML，KHTML 假装是 Gecko，所有的浏览器都假装是 Mozilla，Chrome 自称 <code>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.2.149.27 Safari/525.13</code>，用户代理字符串完全是一团糟，几乎没有用处，每个人都假装是其他人，混乱不堪。</p>
+</li>
+</ul>
+<h2 dir="auto">结束语</h2>
+<p dir="auto">软件生态从来不是孤立的，而是在借鉴，创新中，不断发展，才有了今天这个五彩斑斓的互联网世界。</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[微信杂谈 - 解决问题方法论]]></title>
+  <link>https://github.com/lencx/z/discussions/79</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/79</guid>
+  <pubDate>2022-01-10</pubDate>
+  <description><![CDATA[<p dir="auto"><code>📅 2022.01.07</code></p>
+<p dir="auto">Veda@Angie:<br>
+Vue问题求教：在watch里面，我先用splice清空了数组，再for循环push进去，控制台打印数组是更新了、但是页面还是没有重新渲染</p>
+<p dir="auto">Veda@Angie:<br>
+小哥，你遇到过吗</p>
+<p dir="auto">lencx:<br>
+vue 我不熟</p>
+<p dir="auto">lencx:<br>
+你用的是 vue2吗</p>
+<p dir="auto">Veda@Angie:<br>
+[可怜]对</p>
+<p dir="auto">lencx:<br>
+看看代码</p>
+<p dir="auto">Veda@Angie:<br>
+Vue3应该没这个问题了</p>
+<p dir="auto">Veda@Angie:<br>
+代码在公司，只能下周一过去看了</p>
+<p dir="auto">lencx:<br>
+[捂脸] 有时间跑个最小demo</p>
+<p dir="auto">lencx:<br>
+可能自己就发现问题了</p>
+<p dir="auto">Veda@Angie:<br>
+最小demo是啥意思</p>
+<p dir="auto">lencx:<br>
+就是复现问题的最小用例</p>
+<p dir="auto">Veda@Angie:<br>
+奥奥是这个意思啊</p>
+<p dir="auto">Veda@Angie:<br>
+那我回家了写一个跑一下试试</p>
+<p dir="auto">lencx:<br>
+<a href="https://codesandbox.io/" rel="nofollow">https://codesandbox.io/</a></p>
+<p dir="auto">lencx:<br>
+可以用这个创建</p>
+<p dir="auto">Veda@Angie:<br>
+好的，感谢</p>
+<p dir="auto">lencx:<br>
+比较方便，写完直接分享链接，就是一个在线版的</p>
+<p dir="auto">Veda@Angie:<br>
+好、我去试一试，之前还没用过这种工具</p>
+<p dir="auto">lencx:<br>
+嗯嗯，不客气，这类工具都是比较常用的，还有 codepen 之类的</p>
+<p dir="auto">lencx:<br>
+学技术，只盯着公众号，很有限。要自己拓宽知识面，而不是吃别人嚼过的。如何学习，如何获取信息，如何思考，如何解决问题，我觉得才是最重要的。</p>
+<p dir="auto">Veda@Angie:<br>
+如何学习：<br>
+最常用的是视频学习方式：拉勾、慕课网、B站，一般边看边敲，或看完几节再动手敲<br>
+获取信息：<br>
+搜索引擎、各种技术网站、公众号</p>
+<p dir="auto">Veda@Angie:<br>
+解决问题：<br>
+一般是搜索引擎，谷歌或百度，如果实在解决不了就问别人</p>
+<p dir="auto">Veda@Angie:<br>
+如何高效、深度思考我太欠缺了，很多问题只能看到表面，看不透深层</p>
+<p dir="auto">lencx:<br>
+这写只属于入门级学习方式</p>
+<p dir="auto">Veda@Angie:<br>
+学习方式也有问题，大部分时间属于被动接受。。</p>
+<p dir="auto">lencx:<br>
+高效的学习方式，是知道自己想要什么</p>
+<p dir="auto">Veda@Angie:<br>
+我是感觉自己效率不太高，但是却不知道怎么改善[流泪]</p>
+<p dir="auto">lencx:<br>
+就是被这帮公众号惯坏了，丧失了捕猎的技巧，只会等着被投喂</p>
+<p dir="auto">Veda@Angie:<br>
+工作之余，晚上回去不晚的话会学一点，周末学一些，可利用的学习时间也不多</p>
+<p dir="auto">lencx:<br>
+你要学会主动获取自己想要的信息，这是第一步，然后就是根据自己的需求，拓宽知识面，然后就是读文档。</p>
+<p dir="auto">Veda@Angie:<br>
+最难的还有一步，就是不知道自己想要什么。。。</p>
+<p dir="auto">Veda@Angie:<br>
+就是有一股劲，不知道往哪个方向上使</p>
+<p dir="auto">Veda@Angie:<br>
+今天遇到的问题，我可能需要去看一下vue的源码、以及再过一下它的文档</p>
+<p dir="auto">Veda@Angie:<br>
+这是不是“主动获取自己想要的信息”的一种表现[可怜]</p>
+<p dir="auto">Veda@Angie:<br>
+还是别的其他的理解，啥都可以直说的哈，我在工作中也是直性子有啥说啥的[破涕为笑]</p>
+<p dir="auto">lencx:<br>
+这个不是看不看文档的问题，我现在问你，你能把自己遇到的问题，拆解成 1, 2, 3, ... 步骤吗</p>
+<p dir="auto">lencx:</p>
+<ol dir="auto">
+<li>我遇到了什么问题</li>
+<li>为什么会出现这个问题</li>
+<li>这个问题出现后，我应该怎么办</li>
+<li>我如何分析这个问题</li>
+<li>别人遇到同样的问题，如何定位，思考</li>
+<li>文档我是否都了解清楚了</li>
+<li>我尝试了哪些方法</li>
+<li>问题解决了，我学会了什么</li>
+<li>如果下次遇到同样的问题，我该怎么办</li>
+</ol>
+<p dir="auto">我暂时就想到这些，你觉得你做到了哪些</p>
+<p dir="auto">lencx:<br>
+这是解决问题的基本流程</p>
+<p dir="auto">lencx:<br>
+答案毫无用处，因为它并不能让你举一反三</p>
+<p dir="auto">lencx:<br>
+这些东西，大部分，从公众号，视频上，是学不到的。需要自己动手折腾，思考</p>
+<p dir="auto">Veda@Angie:<br>
+只做到了三四条。。。</p>
+<p dir="auto">lencx:<br>
+形成自己解决问题的方法论，它是一个通用的解决问题的手段。</p>
+<p dir="auto">Veda@Angie:<br>
+折腾了，但思考的太少了</p>
+<p dir="auto">lencx:<br>
+很多时候，别人问我的问题，我也不会，但是有些问题，我可以解答，那是因为，我有自己的解题思路</p>
+<p dir="auto">Veda@Angie:<br>
+我是动手的时间比思考的时间多，这样看是搞反了</p>
+<p dir="auto">lencx:<br>
+是总结少了，而且少了解题的步骤，但是这个步骤恰恰是最关键的，它需要你去分析问题，拆解问题，将未知变成已知，用已经掌握的去推导陌生的</p>
+<p dir="auto">Veda@Angie:<br>
+说的太对了</p>
+<p dir="auto">Veda@Angie:<br>
+我经常会遇到那种重复性的问题，很久以前遇到过的，但就是想不起来当初是怎么解决的了，只有去翻看以前的代码或笔记才能想起来</p>
+<p dir="auto">lencx:<br>
+动手没有错，错的是光动手其实没啥太大意义。因为动手是机械性的动作。代码是你逻辑思维的具象化。</p>
+<p dir="auto">Veda@Angie:<br>
+如果没有代码或笔记参考，我就得重新把那个问题再来解决一遍</p>
+<p dir="auto">lencx:<br>
+你需要做的事抽象为自身可以理解的事物，而不是去记代码，记以前解决问题的答案，毫无意义（一些固定流程，可以笔记，作为参考，快速查阅）。你需要记住的是你是如何拆解问题，如何解决问题的流程，然后去强化它。这样，任何时候，碰到这个问题，或者是新问题，你都可以套用你解决问题的流程模板</p>
+<p dir="auto">Veda@Angie:<br>
+我之前都没往这方面想过，这似乎也适用于生活等其他方面的问题解决</p>
+<p dir="auto">Veda@Angie:<br>
+感谢你的提点，提醒了我，我有必要重新审视自己的学习习惯、思考方式了</p>
+<p dir="auto">Veda@Angie:<br>
+还有好长的路要走</p>
+<p dir="auto">lencx:<br>
+是的</p>
+<p dir="auto">lencx:<br>
+这个没有什么捷径，我自己也走了好几年的弯路</p>
+<p dir="auto">lencx:<br>
+所以我把我很多的经验，拿出来分享了，但是似乎群友看的并不多。</p>
+<p dir="auto">lencx:<br>
+每个人都有自己选择的自由，我也会重新审视自己</p>
+<p dir="auto">Veda@Angie:<br>
+还是看人，就像现在很多时候流量至上，写的好呢东西有深度的东西看得人就少了，被看得多的倒是那些浅显的。。<br>
+你的分享给我了很多启发、指导，这些经验也会慢慢沉淀，到了一定时候好的东西自然会被发现也被大众接受的</p>
+<p dir="auto">Veda@Angie:<br>
+你的分享我觉得很受用，所以坚持做对的事啦</p>
+<p dir="auto">lencx:<br>
+我的分享，有一二人懂，足以。</p>
+<p dir="auto">Veda@Angie:<br>
+一起坚持、</p>
+<p dir="auto">Veda@Angie:<br>
+坚持比努力更重要、哈哈这是我喜欢的一句话</p>
+<p dir="auto">lencx:<br>
+嗯嗯，时间复利</p>
+<p dir="auto">Veda@Angie:<br>
+嗯嗯新的一年，一起加油</p>
+<p dir="auto">lencx:<br>
+那我再告诉你一句话：正确的坚持比坚持更重要，不然就是南辕北辙</p>
+<p dir="auto">Veda@Angie:<br>
+对，因为还有一句话，选择比努力更重要</p>
+<p dir="auto">lencx:<br>
+嗯嗯</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[阅读打卡]]></title>
+  <link>https://github.com/lencx/z/discussions/44</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/44</guid>
+  <pubDate>2022-01-04</pubDate>
+  <description><![CDATA[<ul dir="auto">
+<li><a href="https://www.quora.com/What-should-you-say-no-to-in-the-morning-to-have-a-more-productive-day" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> What should you say no to in the morning to have a more productive day?</a></li>
+<li><a href="https://thenewstack.io/better-incident-management-requires-more-than-just-data/" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Better Incident Management Requires More than Just Data</a></li>
+<li><a href="https://blog.codinghorror.com/recommended-reading-for-developers/" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Recommended Reading for Developers</a></li>
+<li><a href="https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> 提問的智慧</a> - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案</li>
+<li><a href="https://cscalfani.medium.com/how-to-write-a-programming-book-76ab4f8a7071" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> How To Write a Programming Book</a></li>
+<li><a href="https://dzone.com/articles/the-key-for-a-good-start-in-programming" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> The Key To a Good Start in Programming</a></li>
+<li><a href="https://theburningmonk.com/2019/11/how-to-break-the-senior-engineer-career-ceiling/" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> How to break the “senior engineer” career ceiling</a></li>
+<li><a href="https://betterprogramming.pub/should-you-be-deleting-your-own-code-ba77700cf4b8" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Should You Be Deleting Your Own Code?</a></li>
+<li><a href="https://dzone.com/articles/nobody-asked-you-to-code-like-kubrick" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Nobody Asked You to Code Like Kubrick</a></li>
+<li><a href="https://dzone.com/articles/what-is-functional-programming-easy-way" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> What Is Functional Programming? | The Easy Way</a></li>
+<li><a href="https://www.freecodecamp.org/news/coding-programs-coding-classes-you-can-take-for-free-online/" rel="nofollow">Coding Programs – 152 Coding Classes You can Take for Free Online</a></li>
+</ul>
+<hr>
+<h3 dir="auto">Linux</h3>
+<ul dir="auto">
+<li><a href="https://thenewstack.io/linus-torvalds-on-community-rust-and-linuxs-longevity/" rel="nofollow">Linus Torvalds on Community, Rust and Linux’s Longevity</a></li>
+</ul>
+<h3 dir="auto">Git</h3>
+<ul dir="auto">
+<li><a href="https://github.blog/2021-08-16-highlights-from-git-2-33/" rel="nofollow">Highlights from Git 2.33</a></li>
+<li><a href="https://www.linuxuprising.com/2021/08/gitui-017-adds-ability-to-compare.html" rel="nofollow">GitUI 0.17 Adds The Ability To Compare Commits, New Options Popup (Terminal UI For Git Written In Rust)</a></li>
+</ul>
+<h3 dir="auto">Web</h3>
+<ul dir="auto">
+<li><a href="https://github.com/OliverBrotchie/CSS-Fingerprint">CSS Fingerprinting</a> - Pure CSS device fingerprinting.</li>
+<li><a href="https://dmitripavlutin.com/javascript-fill-array/" rel="nofollow">How to Fill an Array with Initial Values in JavaScript</a></li>
+<li><a href="https://www.freecodecamp.org/news/the-javascript-array-handbook/amp/" rel="nofollow">The JavaScript Array Handbook – JS Array Methods Explained with Examples</a></li>
+<li><a href="https://dzone.com/articles/5-things-to-consider-before-you-build-your-app" rel="nofollow">5 Things to Consider Before You Build Your App</a></li>
+<li><a href="https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/" rel="nofollow">What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?</a></li>
+<li><a href="https://www.baldurbjarnason.com/2021/single-page-app-morality-play/" rel="nofollow">The Single-Page-App Morality Play</a></li>
+<li><a href="https://css-tricks.com/scroll-shadows-with-javascript/" rel="nofollow">Scroll Shadows With JavaScript</a></li>
+<li><a href="https://thenewstack.io/all-about-svelte-the-much-loved-state-driven-web-framework/" rel="nofollow">All About Svelte, the Much-Loved, State-Driven Web Framework</a></li>
+<li><a href="https://www.c-sharpcorner.com/article/micro-frontends-with-webpack/" rel="nofollow">Micro Frontends With Webpack</a></li>
+<li><a href="https://indepth.dev/posts/1482/an-in-depth-perspective-on-webpacks-bundling-process" rel="nofollow">An in-depth perspective on webpack's bundling process</a></li>
+<li><a href="https://www.joshwcomeau.com/blog/how-i-built-my-blog/" rel="nofollow">How I Built My Blog</a></li>
+<li><a href="https://blog.logrocket.com/building-type-safe-dictionary-typescript/" rel="nofollow">Building a type-safe dictionary in TypeScript</a></li>
+<li><a href="https://blog.logrocket.com/react-structured-data-and-seo/" rel="nofollow">React, structured data, and SEO</a></li>
+<li><a href="https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust" rel="nofollow">Rome will be written in Rust <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">🦀</g-emoji></a></li>
+<li><a href="https://blog.logrocket.com/react-hooks-infinite-scroll-advanced-tutorial/" rel="nofollow">React Hooks for infinite scroll: An advanced tutorial</a></li>
+<li><a href="https://css-tricks.com/an-intro-to-javascript-proxy/" rel="nofollow">An Intro to JavaScript Proxy</a></li>
+<li><a href="https://dev.to/this-is-learning/javascript-vs-javascript-round-2-fight-2m44" rel="nofollow">JavaScript vs JavaScript: Round 2. Fight!</a></li>
+<li><a href="https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer/" rel="nofollow">The Future of CSS: Cascade Layers (CSS @layer)</a></li>
+<li><a href="https://www.joshwcomeau.com/css/designing-shadows/" rel="nofollow">Designing Beautiful Shadows in CSS</a></li>
+<li><a href="https://www.freecodecamp.org/news/build-a-css-library-with-vitejs/" rel="nofollow">How to Build a CSS Library with Vite.js</a></li>
+<li><a href="https://blog.logrocket.com/best-practices-using-trailing-commas-javascript/" rel="nofollow">Best practices for using trailing commas in JavaScript</a></li>
+<li><a href="https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/" rel="nofollow">Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More</a></li>
+<li><a href="https://css-tricks.com/exploring-the-css-paint-api-blob-animation/" rel="nofollow">Exploring the CSS Paint API: Blob Animation</a></li>
+<li><a href="https://www.smashingmagazine.com/2021/09/devtools-cross-browser-edition/" rel="nofollow">What’s New With DevTools: Cross-Browser Edition</a></li>
+<li><a href="https://joelhooks.com/react-video-player" rel="nofollow">React Video Player Component Using Hooks, TypeScript, and xState</a></li>
+<li><a href="https://web.dev/bundling-non-js-resources/" rel="nofollow">Bundling non-JavaScript resources</a></li>
+<li><a href="https://dev.to/kunaal438/how-to-create-music-player-with-pure-html-css-js-c1j" rel="nofollow">How to create Music player with pure HTML, CSS, JS</a></li>
+<li><a href="https://blog.logrocket.com/create-draggable-components-react-draggable/" rel="nofollow">Create draggable components with React-Draggable</a></li>
+<li><a href="https://dev.to/ms_yogii/infinite-scrolling-in-react-with-intersection-observer-22fh" rel="nofollow">Infinite scrolling in React with intersection observer</a></li>
+<li><a href="https://dev.to/anishkumar/memoizing-fetch-api-calls-in-javascript-1d16" rel="nofollow">Memoizing async functions in Javascript</a></li>
+<li><a href="https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/" rel="nofollow">Event Loops in NodeJS – Beginner's Guide to Synchronous and Asynchronous Code</a></li>
+<li><a href="https://webreflection.medium.com/js-all-you-can-weak-bbe45709b382" rel="nofollow">JS: All You Can Weak!</a></li>
+<li><a href="https://dev.to/omardiaa48/how-to-make-realtime-apis-with-nodejs-and-reactjs-using-socket-io-6ja" rel="nofollow">How to make realtime APIs with NodeJS and ReactJS using Socket.io</a></li>
+<li><a href="https://blog.logrocket.com/understanding-javascript-currying/" rel="nofollow">Understanding JavaScript currying</a></li>
+<li><a href="https://deno.com/blog/deno-on-mdn" rel="nofollow">Deno on MDN</a></li>
+<li><a href="https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript" rel="nofollow">Loading Third-Party JavaScript</a></li>
+<li><a href="https://dev.to/this-is-learning/javascript-vs-javascript-fight-53fa" rel="nofollow">JavaScript vs JavaScript. Fight!</a></li>
+<li><a href="https://www.cloudsavvyit.com/13696/why-webassembly-frameworks-are-the-future-of-the-web/" rel="nofollow">Why WebAssembly Frameworks Are the Future of the Web</a></li>
+<li><a href="https://dev.to/franciscomendes10866/how-to-create-a-video-player-in-react-40jj" rel="nofollow">How to Create a Video Player in React</a></li>
+<li><a href="https://javascript.plainenglish.io/what-i-wish-i-knew-about-algorithms-and-data-structures-applied-to-javascript-aba1c05edac9" rel="nofollow">Algorithms and Data Structures for JavaScript Engineers</a></li>
+<li><a href="https://2ality.com/2021/07/simple-monorepos.html" rel="nofollow">Simple monorepos via npm workspaces and TypeScript project references</a></li>
+<li><a href="https://dev.to/richharris/stay-alert-d" rel="nofollow">Stay alert</a></li>
+<li><a href="https://tympanus.net/codrops/2021/08/02/magical-marbles-in-three-js/" rel="nofollow">Magical Marbles in Three.js</a></li>
+<li><a href="https://blog.prototypr.io/ui-design-tactics-part-1-d82ae4e9d832" rel="nofollow">UI Design Tactics — Part 1</a></li>
+<li><a href="https://webreflection.medium.com/about-web-components-cc3e8b4035b0" rel="nofollow">About Web Components</a></li>
+<li><a href="https://levelup.gitconnected.com/creating-a-force-graph-using-react-d3-and-pixijs-95616051aba" rel="nofollow">Creating a Force Graph using React, D3, and PixiJS</a></li>
+<li><a href="https://tsh.io/blog/finite-state-machines-in-react/" rel="nofollow">How to use finite state machines in React? Explained by a frontend developer</a></li>
+<li><a href="https://dmitripavlutin.com/javascript-promises-then-vs-then-catch/" rel="nofollow">JavaScript Promises: then(f,f) vs then(f).catch(f)</a></li>
+<li><a href="https://www.sitepoint.com/git-interactive-rebase-guide/" rel="nofollow">A Guide to Git Interactive Rebase, with Practical Examples</a></li>
+<li><a href="https://blog.container-solutions.com/10-predictions-for-the-future-of-computing" rel="nofollow">10 Predictions for the Future of Computing or; the Inane Ramblings of our Chief Scientist</a></li>
+<li><a href="https://alexsidorenko.com/blog/react-list-rerender/" rel="nofollow">How to stop re-rendering lists in React?</a></li>
+<li><a href="https://blog.discourse.org/2021/07/faster-user-uploads-on-discourse-with-rust-webassembly-and-mozjpeg/" rel="nofollow">Faster (and smaller) uploads in Discourse with Rust, WebAssembly and MozJPEG</a></li>
+<li><a href="https://dev.to/devpool3000/4-javascript-projects-to-build-fast-and-get-hired-in-1-month-4agf" rel="nofollow">4 JavaScript Projects To Build FAST And Get Hired In 1 Month</a></li>
+<li><a href="https://betterprogramming.pub/is-node-js-really-single-threaded-7ea59bcc8d64" rel="nofollow">Is Node.js Really Single-Threaded? </a></li>
+<li><a href="https://blog.bitsrc.io/the-command-pattern-in-typescript-encapsulating-logic-to-increase-maintainability-801cd135f2e6" rel="nofollow">The Command Pattern in TypeScript — Encapsulating Logic to Increase Maintainability</a></li>
+<li><a href="https://dev.to/ahmedgmurtaza/use-closures-for-memory-optimizations-in-javascript-a-case-study-43h9" rel="nofollow">Use Closures for Memory Optimizations in JavaScript (a case study)</a></li>
+<li><a href="https://web.dev/webassembly-threads/" rel="nofollow">Using WebAssembly threads from C, C++ and Rust</a></li>
+<li><a href="https://www.notion.so/blog/data-model-behind-notion" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> The data model behind Notion's flexibility</a></li>
+<li><a href="https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d" rel="nofollow">How to design a system to scale to your first 100 million users</a></li>
+<li><a href="https://overreacted.io/npm-audit-broken-by-design/" rel="nofollow">npm audit: Broken by Design</a></li>
+<li><a href="https://research.protocol.ai/blog/2021/designing-a-dataflow-editor-with-typescript-and-react/" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Designing a Dataflow Editor with TypeScript and React</a></li>
+<li><a href="https://www.sitepoint.com/building-webrtc-video-chat-applications/" rel="nofollow">Building WebRTC Video Chat Applications</a></li>
+<li><a href="https://github.com/hieunc229/copilot-clone">Captain Stack — Code suggestion for VSCode</a> - This feature is somewhat similar to Github Copilot's code suggestion. But instead of using AI, it sends your search query to Google, then retrieves StackOverflow answers and autocompletes them for you.</li>
+<li><a href="https://2ality.com/2021/06/temporal-api.html" rel="nofollow">Temporal: getting started with JavaScript’s new date time API</a></li>
+<li><a href="https://dev.to/ryansolid/solidjs-official-release-the-long-road-to-1-0-4ldd" rel="nofollow">SolidJS Official Release: The long road to 1.0</a></li>
+<li><a href="https://www.sitepoint.com/moving-backgrounds-when-why-how" rel="nofollow">Moving Backgrounds: When, Why, and How to Use Them</a></li>
+<li><a href="https://www.sitepoint.com/typing-versus-dynamic-typing/" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Introduction to Data Types: Static, Dynamic, Strong &amp; Weak</a> - static doesn’t necessarily mean strong and dynamic doesn’t necessarily mean weak</li>
+<li><a href="https://www.freecodecamp.org/news/understanding-sorting-algorithms/" rel="nofollow">Understanding Sorting Algorithms</a></li>
+<li><a href="https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/" rel="nofollow">Implementing Private Fields for JavaScript</a></li>
+<li><a href="https://utopia.app/" rel="nofollow">Introducing Utopia</a> - Design <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> Code</li>
+<li><a href="https://michaelscodingspot.com/javascript-performance-apis/" rel="nofollow">New browser APIs to detect JavaScript performance problems in production</a></li>
+<li><a href="https://www.sitepoint.com/web3-new-web-new-world/?utm_medium=email&amp;utm_campaign=spw-28&amp;utm_source=sitepoint-weekly" rel="nofollow">Web3: A New Web for a New World</a></li>
+<li><a href="https://dev.to/mehmehmehlol/intro-to-asynchronous-javascript-g9e" rel="nofollow">Intro to Asynchronous JavaScript</a></li>
+<li><a href="https://naruhodo.dev/what-is-vite-and-how-to-use-it-with-react/" rel="nofollow">What is Vite and how to use it with React</a></li>
+</ul>
+<h3 dir="auto">Rust</h3>
+<ul dir="auto">
+<li><a href="https://blog.logrocket.com/iced-rs-tutorial-rust-frontend-web-app/" rel="nofollow">Iced.rs tutorial: How to build a simple Rust frontend web app </a></li>
+<li><a href="https://www.infoworld.com/article/3633002/the-future-of-rust.html" rel="nofollow">The future of Rust</a></li>
+<li><a href="https://blog.logrocket.com/full-stack-rust-a-complete-tutorial-with-examples/" rel="nofollow">Full-stack Rust: A complete tutorial with examples</a></li>
+<li><a href="https://www.sitepoint.com/rust-global-variables" rel="nofollow">How to Idiomatically Use Global Variables in Rust</a></li>
+</ul>
+<h3 dir="auto">GitHub</h3>
+<ul dir="auto">
+<li><a href="https://github.blog/2021-08-17-github-discussions-out-of-beta/" rel="nofollow">GitHub Discussions is out of beta</a></li>
+<li><a href="https://www.smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/" rel="nofollow">How To Automate Documentation Workflow For Developers</a></li>
+<li><a href="https://www.freecodecamp.org/news/github-stars-answer-the-communitys-most-asked-questions/" rel="nofollow">How to Become a GitHub Star – Tips from Actual GitHub Stars</a></li>
+</ul>
+<h3 dir="auto">VS Code</h3>
+<ul dir="auto">
+<li><a href="https://devblogs.microsoft.com/visualstudio/learn-to-write-visual-studio-extensions/" rel="nofollow">Learn to write Visual Studio extensions</a></li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[2021 年终总结]]></title>
+  <link>https://github.com/lencx/z/discussions/77</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/77</guid>
+  <pubDate>2022-01-01</pubDate>
+  <description><![CDATA[<blockquote>
+<p dir="auto"><code>{折腾 ⇌ 迷茫 ⇌ 思考]ing，在路上...</code></p>
+</blockquote>
+<ul dir="auto">
+<li>flag 立的太多，一个也没完成</li>
+<li>打游戏，刷动漫，电视剧，综艺，视频</li>
+<li>读了一些源码，写了一些玩具项目</li>
+<li>吐槽太多，已整理成语录</li>
+<li>努力早睡，不熬夜</li>
+<li>认识了很多新朋友</li>
+</ul>
+<h2 dir="auto">分享 &amp; 沉淀</h2>
+<p dir="auto">建了两个微信技术群和一个免费知识星球</p>
+<ul dir="auto">
+<li><a href="https://t.zsxq.com/fMRRNvz" rel="nofollow">浮之静 - 知识星球</a> - 这里分享技术，无用的小知识（常识之外）。</li>
+<li><a href="https://github.com/lencx/z/discussions?discussions_q=label%3A%E5%BE%AE%E4%BF%A1%E6%9D%82%E8%B0%88">微信杂谈</a> - 技术相关的群聊记录
+<ul dir="auto">
+<li><a href="https://github.com/lencx/z/discussions/75" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/75/hovercard">组件开发的一些思考</a></li>
+<li><a href="https://github.com/lencx/z/discussions/61" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/61/hovercard">技术栈</a></li>
+<li><a href="https://github.com/lencx/z/discussions/57" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/57/hovercard">技术广度 &amp; 深度</a></li>
+<li><a href="https://github.com/lencx/z/discussions/55" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/55/hovercard">技术迷茫期</a></li>
+<li><a href="https://github.com/lencx/z/discussions/54" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/54/hovercard">造轮子</a></li>
+</ul>
+</li>
+</ul>
+<h2 dir="auto">语录</h2>
+<blockquote>
+<p dir="auto"><a href="https://github.com/lencx/z/discussions/74" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/74/hovercard">lencx 语录</a> - 此语录，无任何意义，仅记录生活中的所思所感...</p>
+</blockquote>
+<p dir="auto"><code>🧐 学习</code></p>
+<ul dir="auto">
+<li>要学会把问题交给搜索引擎，而不是把群友当成搜索引擎。</li>
+<li>同样一个问题，用百度和 <a href="https://bing.com/" rel="nofollow">Bing</a>（有能力的用 <a href="https://www.google.com/" rel="nofollow">Google</a>） 对比一下就知道了。</li>
+<li>学习技术，先扫一遍文档，从最基本的开始搭建学习，功能一点点的增加进来。边看边实践，敲键盘也会加深记忆。</li>
+<li>优秀一天容易，难的是一直优秀。</li>
+<li>一篇好文章，更像是一根线，而不是一团麻。极客精神，以风趣幽默的方式解释清楚一切细节。</li>
+<li>学到一句话：经验这个东西，就是越多越好，可以不去做，但是不能不知道。</li>
+<li>有问题不可怕，可怕的是，不知道怎么和问题去相处。</li>
+<li>答案是最无用的东西，因为它是一个问题的处理结果，是由过程分析推理得出来的，过程推理不出，而选择去背答案是最无效的学习方式，毫无意义！</li>
+<li>学习就是从懵逼到膨胀的一个死循环 <g-emoji class="g-emoji" alias="arrows_counterclockwise" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f504.png">🔄</g-emoji></li>
+<li>以后再也不敢说自己是在自学了。没有基础作为指导，只能算是瞎学，乱学。看完<a href="https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md">《自学计算机科学》</a>这份书单，才发现自己对计算机一无所知。</li>
+<li>真正的高效工作，是首先先学会如何解放自己。</li>
+<li>骨头是不好啃，自己要先啃几口，才有发言权。别还没啃，就说太硬了。（软饭吃多了，牙也变软了）</li>
+<li>遇到问题自己不思考，不尝试，就没有资格把这个问题抛出来。（踢皮球并不能让自己成长）</li>
+<li>学会自我总结， 一步一个脚印，别总想着有人可以帮你。（外力终究不是自己的）</li>
+<li>知识就是这样的，会一点点进入你的视野。但是前提，你要保持好奇心，并且不断地尝试。</li>
+<li>人的思想蜕变，不是一瞬间产生的，而是不断起伏的人生带给你的。</li>
+</ul>
+<p dir="auto"><code>😐 日常</code></p>
+<ul dir="auto">
+<li>感谢所有夸我的人，说句实话，我不 NB，在技术群里，大部分人的能力都要比我强，我只是比较张扬而已。</li>
+<li>任何话题都是技术交流，代码不是全部。</li>
+<li>不信鬼神，但对未知还是要保持敬畏之心。</li>
+<li>群里虽然前端居多，似乎更应该发和前端相关的内容。但一切皆知识，路应该越走越宽。专精于 xxx 或许没错，但只有 xxx，视野过于被局限，会少了很多灵感碰撞及其他可能性。（广度与深度该如何抉择）</li>
+<li>彩票属于不确定的意外之财，讨论这个没啥意义。运气不是每个人都有的，现实点。（学会自我催眠）</li>
+<li>我写的文章没啥技术含量，手撕不动，脑子也不怎么灵活，基础更是一塌糊涂。</li>
+<li>我想明白了一些事情：欲望就好比握在手中的沙子，不握紧，会流失。握紧了，只会流的更快。因为想要获得，各种复杂的情绪就产生了，兴奋，焦虑… 如果放弃了所有的欲，一切便会回归于无。</li>
+<li>当一些东西变得重复与机械的时候，也就失去了原本的兴趣。</li>
+<li>自省只是不想让自己太飘，因为人是社会性动物，他人的评价或多或少都会对自己产生影响。</li>
+<li>知识，技术可以变现，但是丢掉原则，就不再是一个技术人了。</li>
+<li>本以为自己只是走了两三年的弯路，谁知从未走出...</li>
+<li>开源其实是一件很简单的事情，你想做，就可以去做。</li>
+<li>人更喜欢相信自己看到的。很少有人去思考，你所看到的是不是别人故意给你看的？（眼见不一定为实）</li>
+<li>以前我也认为只要学会独立思考就够了，但是后来我发现，如果你所看到的一切都是假象，那么基于它做出思考将是一件可怕的事情。（价值观坍塌）</li>
+<li>眼界，思考，质疑，都很重要。</li>
+<li>当对一切失去了怀疑的态度，会让你觉得它就是权威，不会出错。这是很可怕的事情。（盲目崇拜）</li>
+<li>做你认为对的事情，就不存在浪费时间一说。</li>
+<li>有人说：“大多数的成功来源于勇气，似乎越成熟，越丧失了追求的勇气”。但是我认为不是越活越没勇气，而是人学会了算计，会去计较得失，才变得畏手畏脚。（冲动是魔鬼，太过于理智，生活也就少了一些色彩）</li>
+<li>一定要学会享受过程。结果很重要，但是如果真的有一天你可以直接到达这个结果的时候，未必是快乐的。（出生的结局就是死亡）</li>
+<li>没有学会取舍，才会让自己那么累。（放下也是一种智慧）</li>
+<li>我不想努力了，可是没钱。钱不是那么重要，但是没有它，可能会过的很惨。（衣食住行）</li>
+<li>这个世界是动态的，一切都在变化，人也如此。（保持初心）</li>
+<li><a href="https://zh.wikipedia.org/wiki/%E5%AF%8C%E7%88%B8%E7%88%B8%C2%B7%E7%AA%AE%E7%88%B8%E7%88%B8" rel="nofollow">穷爸爸富爸爸</a>告诉我们，起点大于努力。（生的好也很重要）</li>
+</ul>
+<p dir="auto"><code>🤬 吐槽</code></p>
+<ul dir="auto">
+<li>做任何事都是需要指标的，没有高标准，就不会把事情做到极致。但是国内忽视了一些东西，或者说不愿意去面对实际场景，“拍脑袋”和“我以为”就是标准。KPI 最终沦为了老板们的大屏数据，似乎数据代表一切...</li>
+<li>说句难听的，国人有能力的不少，但是创造的东西，真不咋样，很难有思维上的突破，到处都是“借鉴”。</li>
+<li>国外做开源的很多可能就是个学生，普通程序员，没啥 title，吊打国内一大批程序员；级别，title 是越封越高，能力倒是没见涨。</li>
+<li>国人不务实，很多都是面子工程，这莫非是大环境“造就”的？</li>
+<li>这两年看到比较多的消息就是 xxx 开源库作者因精力有限，放弃对其的维护工作。这都是白嫖，不反哺社区的结果。</li>
+<li>某度搜索并不适合程序员，查找问题效率低下，结果百分之八九十都是垃圾。（工具很重要）</li>
+<li>一个技术社区如果东西“杂了”，技术就变得不再纯粹。（四不像）</li>
+<li><a href="https://nodejs.org/en/" rel="nofollow">Node</a> 再卷，感觉都要卷到 <a href="https://v8.dev/" rel="nofollow">V8</a>，<a href="https://isocpp.org/" rel="nofollow">C++</a> 了，而我只是个前端切图仔。</li>
+<li>技术如果不纯粹就会变得畸形，写文章首要目标是思考沉淀，其次是分享传播帮助他人，最后才会考虑技术变现，但很多所谓的“作者”似乎本末倒置了。</li>
+<li>看似是要求越来越低，实则社会在教我做人。（认清现实）</li>
+<li>轮子哥，造轮子的速度比我用轮子的速度还快。（与大佬的差距）</li>
+<li>垃圾公众号看多了，人都变傻了。天天卖课，真烦...</li>
+<li>公众号其实就是收割流量的，既然那么多干货，为啥不写成 blog，因为写成 blog 就没多少干货了，公众号基本百分之七八十都是在转载，写成 blog 哪有那么多文章。如果你关注了 100 个前端公众号，一篇文章你起码可以在几十个公众号看到，有啥意义？还有一大堆是卖课的。一百个能有十个，可能都是比较乐观的估计，十不存一...</li>
+<li>我觉得很多人就喜欢混为一谈，学习的本质是为了什么？是为了吃透一门技术，掌握一门技能，还是说只是为了更好的赚钱。（多问问自己想要什么）</li>
+</ul>
+<p dir="auto"><code>🤫 非原创</code></p>
+<ul dir="auto">
+<li>科技造神的祭坛下，是无数沉迷于低级娱乐与表面思考的终端消费者。但他们不得不为此付费，甚至久而久之，他们会下意识地维护这套病态逻辑。</li>
+<li>编程的历史就是“更少代码”的历史：寻找更好的抽象，并构建库来实现这些抽象。</li>
+</ul>
+<h2 dir="auto">开源</h2>
+<p dir="auto"><a href="https://github.com/stars/lencx/lists/2021">2021 开源项目归档</a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/147826573-a5b522e1-8f36-4018-bc0b-7b8310fdd7ae.png"><img src="https://user-images.githubusercontent.com/16164244/147826573-a5b522e1-8f36-4018-bc0b-7b8310fdd7ae.png" alt="screencapture-github-stars-lencx-lists" style="max-width: 100%;"></a></p>
+<h2 dir="auto">总结</h2>
+<p dir="auto">2021 年一晃而过，很多事情都没来得及去做，只能匆匆忙忙总结一番。以这篇文章（参照物），来记录自己的成长（age++）。</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[微信杂谈 - 组件开发的一些思考]]></title>
+  <link>https://github.com/lencx/z/discussions/75</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/75</guid>
+  <pubDate>2021-12-25</pubDate>
+  <description><![CDATA[<p dir="auto"><code>📅 2021.12.22</code></p>
+<p dir="auto">lencx:<br>
+人们更倾向于根据场景来探索解决方案，成也场景，败也场景。收窄要解决问题的范围，可以降低复杂度，但也降低了普适性。我以前也一直觉得，要实现的东西应该尽可能的剥离业务，但是随着做的业务越来越多，发现业务其实才是核心。当把业务抽象之后，所谓的跨平台其实就是适配的问题。</p>
+<p dir="auto">我发现可能之前自己想错了，应该抽象的是业务而不是组件，组件只是业务的载体。</p>
+<p dir="auto">适配层（组件）要做的就是低耦合，用抽象的业务逻辑去驱动适配层。</p>
+<p dir="auto">其核心就是业务，怎么实现，是个技术问题。技术可以被替换，推翻。以不变（主业务逻辑）应万变（视觉及交互）。</p>
+<hr>
+<blockquote>
+<p dir="auto">产生的讨论</p>
+</blockquote>
+<p dir="auto">正人 (欧雷):<br>
+场景化方案基于通用化方案，不冲突</p>
+<p dir="auto">lencx:<br>
+其实我是发现可能之前自己想错了，要抽象的可能是业务而不是组件</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise (<g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise):<br>
+感觉其实是不同维度</p>
+<p dir="auto">正人 (欧雷):<br>
+所以通用方案的扩展机制很重要</p>
+<p dir="auto">正人 (欧雷):<br>
+都要抽象</p>
+<p dir="auto">正人 (欧雷):<br>
+所以为啥要 MV*，为啥要 DDD[吃瓜]</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise (<g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise):<br>
+通用化方案抽离的开发工具本身， 例如打包工具， 组件化是ui 的抽离，例如react、vue，ant</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise (<g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise):<br>
+想到一个以前的小品，把大象放进冰箱需要几步，答案是三步。 接下来会对这三步行为不端细化和抽离。为了适配不同的场景（放进其他的东西），就对三步的行为不端抽象，部分不同的做单独适配</p>
+<p dir="auto">lencx:<br>
+适配层（组件）我认为要做的就是低耦合，用抽象的业务逻辑去驱动适配层</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise (<g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise):<br>
+来驱动适配层怎么来理解</p>
+<p dir="auto">Shine.:<br>
+除非业务组件 其他的组件都应该是低耦合吧 就只敢一件事</p>
+<p dir="auto">Shine.:<br>
+不应该有任何业务逻辑什么的吧？</p>
+<p dir="auto">空:<br>
+不是有业务组件跟通用组件之分么</p>
+<p dir="auto">lencx:<br>
+个人理解：组件开发一般两种模式，无状态组件和业务组件，业务组件会耦合业务逻辑</p>
+<p dir="auto">lencx:<br>
+但是如果按照我说的，其实就不存在业务组件了，所有的组件基本和业务都不存在太大的耦合，也就是不会在组件里处理业务相关的东西</p>
+<p dir="auto">lencx:<br>
+组件都退化到通用，然后只负责数据的填充。交互其实就是一个个动作，给业务数据所带来的反应。</p>
+<p dir="auto">Shine.:<br>
+就是说组件不去处理业务 业务都在使用的时候去处理？</p>
+<p dir="auto">lencx:<br>
+在抽象的业务核心逻辑里处理，你可以理解为业务核心就是一个个纯函数</p>
+<p dir="auto">lencx:<br>
+组件只负责接收数据</p>
+<p dir="auto">Jack:<br>
+按我理解</p>
+<p dir="auto">Jack:<br>
+理想化状态下，组件就是个书包</p>
+<p dir="auto">Jack:<br>
+你给我啥书 我就装啥书</p>
+<p dir="auto">Jack:<br>
+具体你给我的是语文书 数学书 马列主义 还是什么其他的</p>
+<p dir="auto">Jack:<br>
+我不管</p>
+<p dir="auto">Jack:<br>
+我只管把书装进去 让你带着走</p>
+<p dir="auto">lencx:<br>
+对，书就是业务核心，组件只负责装</p>
+<p dir="auto">Jack:<br>
+这也不是我该管的</p>
+<p dir="auto">Jack:<br>
+理想情况下就是这样</p>
+<p dir="auto">Jack:<br>
+我该管的只是，你如果不装书，装炸药，那我就报错</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise (<g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise):<br>
+这就是抽象与具象的互斥点了</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise (<g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise):<br>
+在业务状态下，有时候需要保证书的放入和放出顺序</p>
+<p dir="auto">Jack:<br>
+是的 所以理想和现实还是有些差距</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise (<g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise):<br>
+书的放置位置和摆放形势</p>
+<p dir="auto">lencx:<br>
+所以可能需要有类似流程控制的东西吧</p>
+<p dir="auto">lencx:<br>
+我其实也没完全想明白</p>
+<p dir="auto">Jack:<br>
+这个见仁见智了 有的倾向于在外边整理完了再塞进去</p>
+<p dir="auto">Jack:<br>
+有的倾向于塞进去，背在身上，让书自己动</p>
+<p dir="auto">皓夜森林:<br>
+ui组件的逻辑层都应该是个纯函数，ui层就是只负责渲染。业务组件感觉更偏向于，处理某个特定业务，比如唤起第三方的支付，sdk的支付组件。这种</p>
+<p dir="auto">Shine.:<br>
+什么叫纯函数 你给我啥我返回啥 对数据不做处理？</p>
+<p dir="auto">皓夜森林:<br>
+很简单，你想想你这个组件能不能在别的项目直接用</p>
+<p dir="auto">Shine.:<br>
+我看网上解释有点太名词了</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise (<g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise):<br>
+现在大多数抽象层的处理，都是在外面处理外，整体放进去，但是也有要求这个单独执行动作的。</p>
+<p dir="auto">皓夜森林:<br>
+不管啥项目。都能直接用（运行环境允许的情况下）</p>
+<p dir="auto">Jack:<br>
+没有副作用的函数</p>
+<p dir="auto">Jack:<br>
+比如 sum（1，2，3）</p>
+<p dir="auto">lencx:<br>
+纯函数就是个黑盒，接收参数，内部一系列处理后，返回的就是格式化后的标准数据格式</p>
+<p dir="auto">Jack:<br>
+我如果输入123 那输出值永远是6</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise (<g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise):<br>
+我个人推崇的还是那种微内核的形式， 提供插件机制和默认机制。 同时保留执行 过程外部可以修改的api</p>
+<p dir="auto">皓夜森林:<br>
+你就理解为一个函数如果在输入一样的情况下输出永远不变那就是纯函数</p>
+<p dir="auto">皓夜森林:<br>
+const add = (a ,b) =&gt; a + b 这就是一个纯函数</p>
+<p dir="auto">皓夜森林:<br>
+let effectParam = 1<br>
+const add = (a, b) =&gt;  a + b + effectParam</p>
+<p dir="auto">皓夜森林:<br>
+因为结果会受effectParam影响</p>
+<p dir="auto">皓夜森林:<br>
+这就不是一个纯函数</p>
+<p dir="auto">皓夜森林:<br>
+这个参数变了结果就变了 即使输入可能都是一样的输入</p>
+<p dir="auto">Jack:<br>
+effectParam也可能是某个api的返回值</p>
+<p dir="auto">Shine.:<br>
+哦 明白了</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise (<g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise):<br>
+像纯函数的编写，也是可以传入单纯的形参，或者传入一个改变执行函数作为结构的再次处理</p>
+<p dir="auto">Shine.:<br>
+我一直理解的是 不修改传递的参数那</p>
+<p dir="auto">皓夜森林:<br>
+我寄几玩我寄几的</p>
+<p dir="auto">皓夜森林:<br>
+你别搞我</p>
+<p dir="auto">皓夜森林:<br>
+这就是纯函数</p>
+<p dir="auto">lencx:<br>
+业务其实就是一大堆这样的纯函数，做什么功能，调什么函数，职责单一</p>
+<p dir="auto">Jack:<br>
+其实本质就是在做取舍</p>
+<p dir="auto">Shine.:<br>
+那我好像很多时候违背了这个</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise (<g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise):<br>
+能保证单一指责其实在团队中就有点难的</p>
+<p dir="auto">皓夜森林:<br>
+hook很多都是业务组件的逻辑层</p>
+<p dir="auto">Shine.:<br>
+看似代码少了</p>
+<p dir="auto">Shine.:<br>
+其实维护起来有点麻烦</p>
+<p dir="auto">Jack:<br>
+的确</p>
+<p dir="auto">皓夜森林:<br>
+那你的项目做大了就很难维护</p>
+<p dir="auto">Shine.:<br>
+一改都得变</p>
+<p dir="auto">皓夜森林:<br>
+这个是肯定的</p>
+<p dir="auto">Jack:<br>
+所以要考虑颗粒度</p>
+<p dir="auto">Jack:<br>
+这就又扯到很多其他方面了</p>
+<p dir="auto">Jack:<br>
+团队规模 业务复杂度 等等</p>
+<p dir="auto">皓夜森林:<br>
+我的话这种都是踩坑踩出来的</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise (<g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise):<br>
+这个本身就是一个很大的命题，把这个充满生机的世界在计算机中进行再造，本身就是厉害</p>
+<p dir="auto">皓夜森林:<br>
+最近改公司的支付...越发体会深刻</p>
+<p dir="auto">lencx:<br>
+支付的各种逻辑一旦耦合进 ui 里， ui 大改版就痛苦了</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise (<g-emoji class="g-emoji" alias="cn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png">🇨🇳</g-emoji>  Promise):<br>
+其实理解好面向对象也是比较容易，抽象对象， 实例在进行业务适配。 提供插件机制提供实例运行</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[CheatSheets for Developers]]></title>
+  <link>https://github.com/lencx/z/discussions/64</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/64</guid>
+  <pubDate>2021-12-23</pubDate>
+  <description><![CDATA[<p dir="auto">随着网络编程技术的飞速发展，我们需要学习的知识量也在不断增加。有时您将无法记住编程语言或框架的所有语法、方法...... 为了解决上述问题，Cheat Sheet 应运而生。它将以系统和直观的方式综合所有语法、概念......，使您可以轻松找到在开发过程中应用的内容。</p>
+
+<hr>
+<ul dir="auto">
+<li><a href="http://www.cheat-sheets.org/" rel="nofollow">Cheat-Sheets.org</a> - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page. The only one you need.</li>
+<li><a href="https://github.com/LeCoupa/awesome-cheatsheets">Awesome Cheatsheets</a> - <g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩‍💻</g-emoji><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.</li>
+<li><a href="https://cheatography.com/" rel="nofollow">1540 Programming Cheat Sheets - Cheatography.com: Cheat Sheets For Every Occasion</a> - Over 4,000 Free Cheat Sheets, Revision Aids and Quick References!</li>
+<li><a href="https://devhints.io/" rel="nofollow">Devhints — TL;DR for developer documentation</a> - A ridiculous collection of web development cheatsheets · One-page guide to</li>
+<li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a> - <g-emoji class="g-emoji" alias="100" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4af.png">💯</g-emoji> Curated interview preparation materials for busy engineers</li>
+<li><a href="https://overapi.com/" rel="nofollow">OverAPI.com | Collecting all the cheat sheets</a> - OverAPI.com is a site collecting all the cheatsheets,all!</li>
+</ul>
+<h2 dir="auto">Front-end</h2>
+<ul dir="auto">
+<li><a href="https://github.com/mechaniac/Map-of-Javascript">map of javascript</a> - Javascript on one sheet. (and one for algorithms)</li>
+<li><a href="http://www.cheat-sheets.org/sites/javascript.su/" rel="nofollow">JavaScript in one page</a></li>
+<li><a href="https://github.com/carltheperson/magic-typescript">Magic TypeScript</a> - A cheat sheet of TypeScript’s most important/magic features</li>
+</ul>
+<h2 dir="auto">Rust</h2>
+<ul dir="auto">
+<li><a href="https://github.com/usagi/rust-memory-container-cs">Rust Memory Container Cheat-sheet</a></li>
+</ul>
+<hr>
+<p dir="auto">[更新中...]</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[组件解耦的一些思考]]></title>
+  <link>https://github.com/lencx/z/discussions/45</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/45</guid>
+  <pubDate>2021-12-22</pubDate>
+  <description><![CDATA[<blockquote>
+<p dir="auto">自前端三大框架 ( <a href="https://vuejs.org" rel="nofollow">Vue</a> , <a href="https://reactjs.org" rel="nofollow">React</a> , <a href="https://angular.io" rel="nofollow">Angular</a> ) 以及后起之秀 <a href="https://svelte.dev" rel="nofollow">Svelte</a> 出现之后，各种组件，轮子。大家都没少造过，一些大公司或者有精力的人，在研究 <code>LowCode</code> 或 <code>NoCode</code>，也有一些落地或者具体方案。</p>
+</blockquote>
+<h2 dir="auto">背景</h2>
+<p dir="auto">但就我自身经历及接触项目而言，项目还是停留在如何编写组件的层次上，简单的实现一些复用。一些历史项目因为需求的迭代，功能在不断增加，写代码的人员也在不断更替，交接。就会导致最后的接手项目的人痛苦不堪，<del>重构？不现实，时间不够，之前的需求也不清楚。继续保持？就面临着怎么去在原项目之上继续迭代。</del> 进退两难...</p>
+<p dir="auto">在之前的需求毫不知情的情况下，如何完成需求功能的迭代，UI 改版？只能通过全局搜索一些关键词，关键字去一步步向上 debug 源码。如果代码中牵扯过多的业务逻辑，就完全懵逼了，没人知道之前的需求是什么?_?!!!</p>
+<p dir="auto">以 React 为例，因为每个人都有自己对组件的理解，不同的人站在不同的维度去封装，就导致最后的项目结构，代码结构也是千差万别。</p>
+<ul dir="auto">
+<li><code>无状态组件</code>: 不涉及过多状态交互，很容易实现，大家的思路都差不多。</li>
+<li><code>有状态组件</code>: 一旦涉及到状态，业务逻辑，交互。一个组件就变得不再可控。每个人的风格也都体现的淋漓尽致！
+<ul dir="auto">
+<li>组件内发起请求，各种请求，大量接口相互依赖。如果涉及到多个接口并行，后一个接口依赖上一个接口的返回值，写法又是各有特色。</li>
+<li>出现大量的业务逻辑分支，根据业务 <code>return</code> 出不同的组件 ╥﹏╥</li>
+<li>直接在组件内实现一个或多个子组件 (ノへ￣、)</li>
+<li>子组件上挂载着大量的 <code>props</code>，属性有时候多到令人发指，有数据，方法，状态，自定义的 xxx，各种传递。 o(╥﹏╥)o</li>
+<li>欢迎大家继续补充吐槽...</li>
+</ul>
+</li>
+</ul>
+<h2 dir="auto">思考</h2>
+<p dir="auto">我对数据的理解，它既贴近于业务层，也耦合着交互层，如果不能很好的分离组织这三层，很可能牵一发而动全身。所以数据是核心，既是业务的核心，也是组件的核心。</p>
+<ul dir="auto">
+<li>数据，业务逻辑，交互都会影响最终需要渲染的UI视图。</li>
+<li>编写组件时，首先分析业务需求，对组件进行分层。大致分为<code>数据 (DataSource)</code>，<code>交互 (Action)</code>，<code>UI视图 (View)</code>三层。
+<ul dir="auto">
+<li><strong>数据处理 (Handle)</strong>: 承载着核心业务逻辑，对数据进行格式化输出，供 UI 组件进行标准化接收，一般以 <code>function</code> 形式存在。</li>
+<li><strong>副作用 (Effect)</strong>: 以我目前接触到的场景，主要还是以事件修改组件状态，更新数据及UI视图为主。所以事件及状态变更可能会同时出现在 <code>数据处理</code> 和 <code>UI 视图</code> 中。在数据处理中，<code>调用 (Call)</code> 方法；在 UI 中，<code>绑定 (Bind)</code> 事件及状态。UI 层尽量不直接处理或少处理源数据。</li>
+</ul>
+</li>
+</ul>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/123594281-16ec3a80-d822-11eb-91e1-b2510590e26d.png"><img width="420" src="https://user-images.githubusercontent.com/16164244/123594281-16ec3a80-d822-11eb-91e1-b2510590e26d.png" alt="组件拆分原则" style="max-width: 100%;"></a></p>
+<h2 dir="auto">举例</h2>
+<ul dir="auto">
+<li>业务中常会有这样一种需求，用户可以动态的新增删除一个列表，因为每次需要处理的数据，和展示的 UI 形式都是不确定的。可能我们每次做需求时都实现一次代码，或者把新增和删除方法提取出来，实现部分复用。以 <code>React Hook</code> 为例：</li>
+</ul>
+<div class="highlight highlight-source-js position-relative overflow-auto" data-snippet-clipboard-copy-content="/* hooks/useDataOP.js */
+import { useState, useEffect } from 'react';
+import { v4 as uuidv4 } from 'uuid';
+import cloneDeep from 'lodash/cloneDeep';
+
+// 使用Symbol作为数据的唯一key
+const safeKey = Symbol('tid');
+
+// 格式化源数据
+const opFmtData = (data) =&gt; {
+  return cloneDeep(data).map((i) =&gt; {
+    i[safeKey] = uuidv4();
+    return i;
+  });
+};
+
+/**
+ * useDataOP
+ * @author lencx
+ * @param rawData - 源数据
+ */
+export default function useDataOP(rawData = []) {
+  const [opData, setData] = useState([]);
+  const [opType, setType] = useState(null);
+  const [isOk, setOk] = useState(true);
+
+  // 数据初始化
+  useEffect(() =&gt; {
+    if (Array.isArray(rawData)) {
+      if (rawData.length &gt; 0) {
+        const data = opFmtData(rawData);
+        setData(data);
+      }
+      setOk(true);
+    } else {
+      setOk(false);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  if (!isOk) return console.error('Parameter must be an array!');
+
+  /**
+   * 新增
+   * @param data - 新增的数据对象
+   */
+  const opAdd = (data = {}) =&gt; {
+    const result = [...opData, { [safeKey]: uuidv4(), ...data }];
+    setData(result);
+    setType('add');
+    return result;
+  };
+
+  /**
+   * 删除
+   * @param value - 需要删除的值，如果为字符串或数字时，需要配合key使用。
+   *   如果value为对象，则为需要删除的记录，通过safeKey查找删除。
+   * @param key - 默认为id，选填，可省略
+   */
+  const opRemove = (value, key = 'id') =&gt; {
+    let result;
+    if (typeof value === 'string' || typeof value === 'number') {
+      result = opData.filter((i) =&gt; i[key] !== value);
+    } else {
+      result = opData.filter((i) =&gt; i[safeKey] !== value[safeKey]);
+    }
+    setData(result);
+    setType('remove');
+    return result;
+  };
+
+  /**
+   * 排序
+   * @param startIndex - 当前位置
+   * @param endIndex - 目标位置
+   */
+  const opReorder = (startIndex, endIndex) =&gt; {
+    const result = Array.from(opData);
+    const [removed] = result.splice(startIndex, 1);
+    result.splice(endIndex, 0, removed);
+    setData(result);
+    setType('reorder');
+    return result;
+  };
+
+  return {
+    opData,
+    opType,
+    opAdd,
+    opRemove,
+    opReorder,
+    opRawData: rawData,
+    opSafeKey: safeKey,
+  };
+}"><pre><span class="pl-c">/* hooks/useDataOP.js */</span>
+<span class="pl-k">import</span> <span class="pl-kos">{</span> <span class="pl-s1">useState</span><span class="pl-kos">,</span> <span class="pl-s1">useEffect</span> <span class="pl-kos">}</span> <span class="pl-k">from</span> <span class="pl-s">'react'</span><span class="pl-kos">;</span>
+<span class="pl-k">import</span> <span class="pl-kos">{</span> <span class="pl-s1">v4</span> <span class="pl-k">as</span> <span class="pl-s1">uuidv4</span> <span class="pl-kos">}</span> <span class="pl-k">from</span> <span class="pl-s">'uuid'</span><span class="pl-kos">;</span>
+<span class="pl-k">import</span> <span class="pl-s1">cloneDeep</span> <span class="pl-k">from</span> <span class="pl-s">'lodash/cloneDeep'</span><span class="pl-kos">;</span>
+
+<span class="pl-c">// 使用Symbol作为数据的唯一key</span>
+<span class="pl-k">const</span> <span class="pl-s1">safeKey</span> <span class="pl-c1">=</span> <span class="pl-v">Symbol</span><span class="pl-kos">(</span><span class="pl-s">'tid'</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+
+<span class="pl-c">// 格式化源数据</span>
+<span class="pl-k">const</span> <span class="pl-en">opFmtData</span> <span class="pl-c1">=</span> <span class="pl-kos">(</span><span class="pl-s1">data</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">{</span>
+  <span class="pl-k">return</span> <span class="pl-en">cloneDeep</span><span class="pl-kos">(</span><span class="pl-s1">data</span><span class="pl-kos">)</span><span class="pl-kos">.</span><span class="pl-en">map</span><span class="pl-kos">(</span><span class="pl-kos">(</span><span class="pl-s1">i</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">{</span>
+    <span class="pl-s1">i</span><span class="pl-kos">[</span><span class="pl-s1">safeKey</span><span class="pl-kos">]</span> <span class="pl-c1">=</span> <span class="pl-en">uuidv4</span><span class="pl-kos">(</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-k">return</span> <span class="pl-s1">i</span><span class="pl-kos">;</span>
+  <span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+<span class="pl-kos">}</span><span class="pl-kos">;</span>
+
+<span class="pl-c">/**</span>
+<span class="pl-c"> * useDataOP</span>
+<span class="pl-c"> * <span class="pl-k">@author</span> lencx</span>
+<span class="pl-c"> * <span class="pl-k">@param</span> rawData - 源数据</span>
+<span class="pl-c"> */</span>
+<span class="pl-k">export</span> <span class="pl-k">default</span> <span class="pl-k">function</span> <span class="pl-en">useDataOP</span><span class="pl-kos">(</span><span class="pl-s1">rawData</span> <span class="pl-c1">=</span> <span class="pl-kos">[</span><span class="pl-kos">]</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+  <span class="pl-k">const</span> <span class="pl-kos">[</span><span class="pl-s1">opData</span><span class="pl-kos">,</span> <span class="pl-s1">setData</span><span class="pl-kos">]</span> <span class="pl-c1">=</span> <span class="pl-en">useState</span><span class="pl-kos">(</span><span class="pl-kos">[</span><span class="pl-kos">]</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+  <span class="pl-k">const</span> <span class="pl-kos">[</span><span class="pl-s1">opType</span><span class="pl-kos">,</span> <span class="pl-s1">setType</span><span class="pl-kos">]</span> <span class="pl-c1">=</span> <span class="pl-en">useState</span><span class="pl-kos">(</span><span class="pl-c1">null</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+  <span class="pl-k">const</span> <span class="pl-kos">[</span><span class="pl-s1">isOk</span><span class="pl-kos">,</span> <span class="pl-s1">setOk</span><span class="pl-kos">]</span> <span class="pl-c1">=</span> <span class="pl-en">useState</span><span class="pl-kos">(</span><span class="pl-c1">true</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+
+  <span class="pl-c">// 数据初始化</span>
+  <span class="pl-en">useEffect</span><span class="pl-kos">(</span><span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">{</span>
+    <span class="pl-k">if</span> <span class="pl-kos">(</span><span class="pl-v">Array</span><span class="pl-kos">.</span><span class="pl-en">isArray</span><span class="pl-kos">(</span><span class="pl-s1">rawData</span><span class="pl-kos">)</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+      <span class="pl-k">if</span> <span class="pl-kos">(</span><span class="pl-s1">rawData</span><span class="pl-kos">.</span><span class="pl-c1">length</span> <span class="pl-c1">&gt;</span> <span class="pl-c1">0</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+        <span class="pl-k">const</span> <span class="pl-s1">data</span> <span class="pl-c1">=</span> <span class="pl-en">opFmtData</span><span class="pl-kos">(</span><span class="pl-s1">rawData</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+        <span class="pl-s1">setData</span><span class="pl-kos">(</span><span class="pl-s1">data</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+      <span class="pl-kos">}</span>
+      <span class="pl-s1">setOk</span><span class="pl-kos">(</span><span class="pl-c1">true</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-kos">}</span> <span class="pl-k">else</span> <span class="pl-kos">{</span>
+      <span class="pl-s1">setOk</span><span class="pl-kos">(</span><span class="pl-c1">false</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-kos">}</span>
+    <span class="pl-c">// eslint-disable-next-line react-hooks/exhaustive-deps</span>
+  <span class="pl-kos">}</span><span class="pl-kos">,</span> <span class="pl-kos">[</span><span class="pl-kos">]</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+
+  <span class="pl-k">if</span> <span class="pl-kos">(</span><span class="pl-c1">!</span><span class="pl-s1">isOk</span><span class="pl-kos">)</span> <span class="pl-k">return</span> <span class="pl-smi">console</span><span class="pl-kos">.</span><span class="pl-en">error</span><span class="pl-kos">(</span><span class="pl-s">'Parameter must be an array!'</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+
+  <span class="pl-c">/**</span>
+<span class="pl-c">   * 新增</span>
+<span class="pl-c">   * <span class="pl-k">@param</span> data - 新增的数据对象</span>
+<span class="pl-c">   */</span>
+  <span class="pl-k">const</span> <span class="pl-en">opAdd</span> <span class="pl-c1">=</span> <span class="pl-kos">(</span><span class="pl-s1">data</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span><span class="pl-kos">}</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">{</span>
+    <span class="pl-k">const</span> <span class="pl-s1">result</span> <span class="pl-c1">=</span> <span class="pl-kos">[</span>...<span class="pl-s1">opData</span><span class="pl-kos">,</span> <span class="pl-kos">{</span> <span class="pl-kos">[</span><span class="pl-s1">safeKey</span><span class="pl-kos">]</span>: <span class="pl-en">uuidv4</span><span class="pl-kos">(</span><span class="pl-kos">)</span><span class="pl-kos">,</span> ...<span class="pl-s1">data</span> <span class="pl-kos">}</span><span class="pl-kos">]</span><span class="pl-kos">;</span>
+    <span class="pl-s1">setData</span><span class="pl-kos">(</span><span class="pl-s1">result</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-s1">setType</span><span class="pl-kos">(</span><span class="pl-s">'add'</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-k">return</span> <span class="pl-s1">result</span><span class="pl-kos">;</span>
+  <span class="pl-kos">}</span><span class="pl-kos">;</span>
+
+  <span class="pl-c">/**</span>
+<span class="pl-c">   * 删除</span>
+<span class="pl-c">   * <span class="pl-k">@param</span> value - 需要删除的值，如果为字符串或数字时，需要配合key使用。</span>
+<span class="pl-c">   *   如果value为对象，则为需要删除的记录，通过safeKey查找删除。</span>
+<span class="pl-c">   * <span class="pl-k">@param</span> key - 默认为id，选填，可省略</span>
+<span class="pl-c">   */</span>
+  <span class="pl-k">const</span> <span class="pl-en">opRemove</span> <span class="pl-c1">=</span> <span class="pl-kos">(</span><span class="pl-s1">value</span><span class="pl-kos">,</span> <span class="pl-s1">key</span> <span class="pl-c1">=</span> <span class="pl-s">'id'</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">{</span>
+    <span class="pl-k">let</span> <span class="pl-s1">result</span><span class="pl-kos">;</span>
+    <span class="pl-k">if</span> <span class="pl-kos">(</span><span class="pl-k">typeof</span> <span class="pl-s1">value</span> <span class="pl-c1">===</span> <span class="pl-s">'string'</span> <span class="pl-c1">||</span> <span class="pl-k">typeof</span> <span class="pl-s1">value</span> <span class="pl-c1">===</span> <span class="pl-s">'number'</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+      <span class="pl-s1">result</span> <span class="pl-c1">=</span> <span class="pl-s1">opData</span><span class="pl-kos">.</span><span class="pl-en">filter</span><span class="pl-kos">(</span><span class="pl-kos">(</span><span class="pl-s1">i</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-s1">i</span><span class="pl-kos">[</span><span class="pl-s1">key</span><span class="pl-kos">]</span> <span class="pl-c1">!==</span> <span class="pl-s1">value</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-kos">}</span> <span class="pl-k">else</span> <span class="pl-kos">{</span>
+      <span class="pl-s1">result</span> <span class="pl-c1">=</span> <span class="pl-s1">opData</span><span class="pl-kos">.</span><span class="pl-en">filter</span><span class="pl-kos">(</span><span class="pl-kos">(</span><span class="pl-s1">i</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-s1">i</span><span class="pl-kos">[</span><span class="pl-s1">safeKey</span><span class="pl-kos">]</span> <span class="pl-c1">!==</span> <span class="pl-s1">value</span><span class="pl-kos">[</span><span class="pl-s1">safeKey</span><span class="pl-kos">]</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-kos">}</span>
+    <span class="pl-s1">setData</span><span class="pl-kos">(</span><span class="pl-s1">result</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-s1">setType</span><span class="pl-kos">(</span><span class="pl-s">'remove'</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-k">return</span> <span class="pl-s1">result</span><span class="pl-kos">;</span>
+  <span class="pl-kos">}</span><span class="pl-kos">;</span>
+
+  <span class="pl-c">/**</span>
+<span class="pl-c">   * 排序</span>
+<span class="pl-c">   * <span class="pl-k">@param</span> startIndex - 当前位置</span>
+<span class="pl-c">   * <span class="pl-k">@param</span> endIndex - 目标位置</span>
+<span class="pl-c">   */</span>
+  <span class="pl-k">const</span> <span class="pl-en">opReorder</span> <span class="pl-c1">=</span> <span class="pl-kos">(</span><span class="pl-s1">startIndex</span><span class="pl-kos">,</span> <span class="pl-s1">endIndex</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">{</span>
+    <span class="pl-k">const</span> <span class="pl-s1">result</span> <span class="pl-c1">=</span> <span class="pl-v">Array</span><span class="pl-kos">.</span><span class="pl-en">from</span><span class="pl-kos">(</span><span class="pl-s1">opData</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-k">const</span> <span class="pl-kos">[</span><span class="pl-s1">removed</span><span class="pl-kos">]</span> <span class="pl-c1">=</span> <span class="pl-s1">result</span><span class="pl-kos">.</span><span class="pl-en">splice</span><span class="pl-kos">(</span><span class="pl-s1">startIndex</span><span class="pl-kos">,</span> <span class="pl-c1">1</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-s1">result</span><span class="pl-kos">.</span><span class="pl-en">splice</span><span class="pl-kos">(</span><span class="pl-s1">endIndex</span><span class="pl-kos">,</span> <span class="pl-c1">0</span><span class="pl-kos">,</span> <span class="pl-s1">removed</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-s1">setData</span><span class="pl-kos">(</span><span class="pl-s1">result</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-s1">setType</span><span class="pl-kos">(</span><span class="pl-s">'reorder'</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-k">return</span> <span class="pl-s1">result</span><span class="pl-kos">;</span>
+  <span class="pl-kos">}</span><span class="pl-kos">;</span>
+
+  <span class="pl-k">return</span> <span class="pl-kos">{</span>
+    opData<span class="pl-kos">,</span>
+    opType<span class="pl-kos">,</span>
+    opAdd<span class="pl-kos">,</span>
+    opRemove<span class="pl-kos">,</span>
+    opReorder<span class="pl-kos">,</span>
+    <span class="pl-c1">opRawData</span>: <span class="pl-s1">rawData</span><span class="pl-kos">,</span>
+    <span class="pl-c1">opSafeKey</span>: <span class="pl-s1">safeKey</span><span class="pl-kos">,</span>
+  <span class="pl-kos">}</span><span class="pl-kos">;</span>
+<span class="pl-kos">}</span></pre></div>
+<div class="highlight highlight-source-js position-relative overflow-auto" data-snippet-clipboard-copy-content="// 使用useDataOP
+import React, { useState } from 'react';
+import useDataOP from '@hooks/useDataOP';
+
+export default () =&gt; {
+  const { opData, opAdd, opRemove, opReorder, opSafeKey } = useDataOP([]);
+  const [count, setCount] = useState(1);
+
+  const handleAdd = () =&gt; {
+    setCount(count+1);
+    opAdd({ name: `test${count}` });
+  }
+  return (
+    &lt;div&gt;
+      &lt;button onClick={handleAdd}&gt;Add&lt;/button&gt;
+      {opData.map((i, idx) =&gt; {
+        return (
+          &lt;div key={i[opSafeKey]}&gt;
+            &lt;span&gt;Name: {i.name}&lt;/span&gt;
+            {' '}
+            &lt;button onClick={() =&gt; opRemove(i)}&gt;Remove&lt;/button&gt;
+            &lt;button onClick={() =&gt; opReorder(idx, idx-1)}&gt;Up+1&lt;/button&gt;
+            &lt;button onClick={() =&gt; opReorder(idx, idx+1)}&gt;Down-1&lt;/button&gt;
+          &lt;/div&gt;
+        )
+      })}
+    &lt;/div&gt;
+  );
+}"><pre><span class="pl-c">// 使用useDataOP</span>
+<span class="pl-k">import</span> <span class="pl-v">React</span><span class="pl-kos">,</span> <span class="pl-kos">{</span> <span class="pl-s1">useState</span> <span class="pl-kos">}</span> <span class="pl-k">from</span> <span class="pl-s">'react'</span><span class="pl-kos">;</span>
+<span class="pl-k">import</span> <span class="pl-s1">useDataOP</span> <span class="pl-k">from</span> <span class="pl-s">'@hooks/useDataOP'</span><span class="pl-kos">;</span>
+
+<span class="pl-k">export</span> <span class="pl-k">default</span> <span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">{</span>
+  <span class="pl-k">const</span> <span class="pl-kos">{</span> opData<span class="pl-kos">,</span> opAdd<span class="pl-kos">,</span> opRemove<span class="pl-kos">,</span> opReorder<span class="pl-kos">,</span> opSafeKey <span class="pl-kos">}</span> <span class="pl-c1">=</span> <span class="pl-en">useDataOP</span><span class="pl-kos">(</span><span class="pl-kos">[</span><span class="pl-kos">]</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+  <span class="pl-k">const</span> <span class="pl-kos">[</span><span class="pl-s1">count</span><span class="pl-kos">,</span> <span class="pl-s1">setCount</span><span class="pl-kos">]</span> <span class="pl-c1">=</span> <span class="pl-en">useState</span><span class="pl-kos">(</span><span class="pl-c1">1</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+
+  <span class="pl-k">const</span> <span class="pl-en">handleAdd</span> <span class="pl-c1">=</span> <span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">{</span>
+    <span class="pl-s1">setCount</span><span class="pl-kos">(</span><span class="pl-s1">count</span><span class="pl-c1">+</span><span class="pl-c1">1</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+    <span class="pl-en">opAdd</span><span class="pl-kos">(</span><span class="pl-kos">{</span> <span class="pl-c1">name</span>: <span class="pl-s">`test<span class="pl-s1"><span class="pl-kos">${</span><span class="pl-s1">count</span><span class="pl-kos">}</span></span>`</span> <span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+  <span class="pl-kos">}</span>
+  <span class="pl-k">return</span> <span class="pl-kos">(</span>
+    <span class="pl-c1">&lt;</span><span class="pl-ent">div</span><span class="pl-c1">&gt;</span>
+      <span class="pl-c1">&lt;</span><span class="pl-ent">button</span> <span class="pl-c1">onClick</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-en">handleAdd</span><span class="pl-kos">}</span><span class="pl-c1">&gt;</span>Add<span class="pl-c1">&lt;</span><span class="pl-c1">/</span><span class="pl-ent">button</span><span class="pl-c1">&gt;</span>
+      <span class="pl-kos">{</span><span class="pl-s1">opData</span><span class="pl-kos">.</span><span class="pl-en">map</span><span class="pl-kos">(</span><span class="pl-kos">(</span><span class="pl-s1">i</span><span class="pl-kos">,</span> <span class="pl-s1">idx</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">{</span>
+        <span class="pl-k">return</span> <span class="pl-kos">(</span>
+          <span class="pl-c1">&lt;</span><span class="pl-ent">div</span> <span class="pl-c1">key</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-s1">i</span><span class="pl-kos">[</span><span class="pl-s1">opSafeKey</span><span class="pl-kos">]</span><span class="pl-kos">}</span><span class="pl-c1">&gt;</span>
+            <span class="pl-c1">&lt;</span><span class="pl-ent">span</span><span class="pl-c1">&gt;</span>Name: <span class="pl-kos">{</span><span class="pl-s1">i</span><span class="pl-kos">.</span><span class="pl-c1">name</span><span class="pl-kos">}</span><span class="pl-c1">&lt;</span><span class="pl-c1">/</span><span class="pl-ent">span</span><span class="pl-c1">&gt;</span>
+            <span class="pl-kos">{</span><span class="pl-s">' '</span><span class="pl-kos">}</span>
+            <span class="pl-c1">&lt;</span><span class="pl-ent">button</span> <span class="pl-c1">onClick</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-en">opRemove</span><span class="pl-kos">(</span><span class="pl-s1">i</span><span class="pl-kos">)</span><span class="pl-kos">}</span><span class="pl-c1">&gt;</span>Remove<span class="pl-c1">&lt;</span><span class="pl-c1">/</span><span class="pl-ent">button</span><span class="pl-c1">&gt;</span>
+            <span class="pl-c1">&lt;</span><span class="pl-ent">button</span> <span class="pl-c1">onClick</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-en">opReorder</span><span class="pl-kos">(</span><span class="pl-s1">idx</span><span class="pl-kos">,</span> <span class="pl-s1">idx</span><span class="pl-c1">-</span><span class="pl-c1">1</span><span class="pl-kos">)</span><span class="pl-kos">}</span><span class="pl-c1">&gt;</span>Up+1<span class="pl-c1">&lt;</span><span class="pl-c1">/</span><span class="pl-ent">button</span><span class="pl-c1">&gt;</span>
+            <span class="pl-c1">&lt;</span><span class="pl-ent">button</span> <span class="pl-c1">onClick</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-en">opReorder</span><span class="pl-kos">(</span><span class="pl-s1">idx</span><span class="pl-kos">,</span> <span class="pl-s1">idx</span><span class="pl-c1">+</span><span class="pl-c1">1</span><span class="pl-kos">)</span><span class="pl-kos">}</span><span class="pl-c1">&gt;</span>Down-1<span class="pl-c1">&lt;</span><span class="pl-c1">/</span><span class="pl-ent">button</span><span class="pl-c1">&gt;</span>
+          <span class="pl-c1">&lt;</span><span class="pl-c1">/</span><span class="pl-ent">div</span><span class="pl-c1">&gt;</span>
+        <span class="pl-kos">)</span>
+      <span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">}</span>
+    <span class="pl-c1">&lt;</span><span class="pl-c1">/</span><span class="pl-ent">div</span><span class="pl-c1">&gt;</span>
+  <span class="pl-kos">)</span><span class="pl-kos">;</span>
+<span class="pl-kos">}</span></pre></div>
+<p dir="auto"><a href="https://codesandbox.io/s/usedataop-wwe72" rel="nofollow">查看 DEMO 演示</a></p>
+<h2 dir="auto">总结</h2>
+<p dir="auto">数据与 UI 的解耦，其实就意味着业务逻辑与 UI 组件视图的解耦。当组件要跨平台，或者 UI 大换肤时，我们只需要实现标准的数据接收组件就可以了。业务功能对应的其实就是一个个数据处理函数和 UI 组件的组合，通过事件去触发或者绑定一些状态。当数据处理或组件不满足需求的时候，我们只需要去扩展对应的函数或组件。</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[CSS Series]]></title>
+  <link>https://github.com/lencx/z/discussions/5</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/5</guid>
+  <pubDate>2021-12-06</pubDate>
+  <description><![CDATA[<h2 dir="auto">Guide</h2>
+<ul dir="auto">
+<li><a href="https://web.dev/learn/css" rel="nofollow">Learn CSS</a> - An evergreen CSS course and reference to level up your web styling expertise.</li>
+<li><a href="https://github.com/chokcoco/iCSS">iCSS</a> - CSS 奇技淫巧</li>
+<li><a href="https://css-tricks.com" rel="nofollow">CSS-Tricks</a> - Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.</li>
+<li><a href="https://css-weekly.com/archives" rel="nofollow">CSS Weekly</a> - An archive of all previously released newsletter issues.</li>
+<li><a href="https://www.joshwcomeau.com/" rel="nofollow">Josh W Comeau</a> - Friendly tutorials for developers. Focus on React, CSS, Animation, and more!</li>
+</ul>
+<h2 dir="auto">Post</h2>
+<ul dir="auto">
+<li>:is
+<ul dir="auto">
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/:is" rel="nofollow">[MDN] :is() (:matches(), :any())</a></li>
+<li><a href="https://web.dev/css-is-and-where" rel="nofollow">New CSS functional pseudo-class selectors :is() and :where()</a></li>
+<li><a href="https://css-tricks.com/almanac/selectors/i/is" rel="nofollow">[CSS-TRICKS] :is</a></li>
+</ul>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[开源 - 原创打卡]]></title>
+  <link>https://github.com/lencx/z/discussions/66</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/66</guid>
+  <pubDate>2021-11-28</pubDate>
+  <description><![CDATA[<blockquote>
+<p dir="auto">我发起了一个原创写作计划，通过开源打卡的形式来相互监督。</p>
+</blockquote>
+<p dir="auto">目前计划刚刚启动，还有很多地方需要完善，如果有感兴趣的朋友，欢迎参与。</p>
+<p dir="auto">仓库：<a href="https://github.com/zkuhut/monthly">zkuhut/monthly</a><br>
+网站：<a href="https://zkuhut.github.io/monthly/" rel="nofollow">臻苦舍月刊</a></p>
+<p dir="auto">有两种参与方式，选择其中一种即可：</p>
+<ul dir="auto">
+<li>关注公众号：<code>浮之静</code>，回复 <code>开源打卡</code></li>
+<li><code>Fork</code> 仓库，提交 <code>PR</code>，可参考 <a href="https://zkuhut.github.io/monthly/lencx/general/how-to-start-monthly/" rel="nofollow">怎样贡献一篇文章？</a></li>
+</ul>
+<h2 dir="auto">关于</h2>
+<p dir="auto"><code>zkuhut</code>：臻（z）苦（ku）舍（hut）<br>
+<code>臻，至也；苦，始也。</code> - 谐音 <code>真苦</code>，想要到达高的，完美的（臻），一切只是刚刚开始（苦）。</p>
+<h2 dir="auto">背景</h2>
+<p dir="auto">在信息爆炸的时代，我们最缺的不是如何获取信息，有价值的信息沉淀下来才是真正的知识。我们每个人都会阅读，思考，但是要把这些思考想法输出的人似乎并没有想象中那么多。</p>
+<p dir="auto">人都是有惰性的，会因为种种原因而放弃自己的一些计划或目标，三分钟热度。此次发起学习小组，就是想基于 GitHub 来进行协作监督，记录自己。</p>
+<p dir="auto">很多人，包括我自己都会有这样的困惑：</p>
+<ul dir="auto">
+<li>我很菜，不知道该写点什么。</li>
+<li>我会的东西那么简单，写出来会不会被别人笑话。</li>
+<li>我想写的东西似乎很多人都写过了，还有必要自己写吗？</li>
+</ul>
+<p dir="auto">对此我想谈谈自己对于有价值信息的理解。输出文章是为了记录，梳理，引发一些思考及观点。其次才是分享（别太高看自己，你写的东西没几个人会看到的）。用最直白的语言讲清楚一件事或一个东西，就是有价值的信息。</p>
+<h2 dir="auto">技术栈</h2>
+<h3 dir="auto">写作平台</h3>
+<p dir="auto">现在的写作形式就那么几种：</p>
+<ul dir="auto">
+<li>第三方平台
+<ul dir="auto">
+<li>国内：<code>知乎</code>，<code>掘金</code>，<code>公众号</code>，<code>简书</code>，<code>CSDN</code> 等</li>
+<li>国外：<code>dev.to</code>，<code>medium</code> 等</li>
+</ul>
+</li>
+<li>自建博客
+<ul dir="auto">
+<li>自己搭建服务器</li>
+<li>基于 <code>GitHub</code>，<code>Gitee</code> 的 <code>pages</code> 搭建网站</li>
+</ul>
+</li>
+<li>云笔记：<code>Notion</code>，<code>有道云笔记</code> 等</li>
+</ul>
+<h3 dir="auto">方案确定</h3>
+<p dir="auto">最终选择 GitHub 作为代码及文章托管平台，<a href="https://vitepress.vuejs.org/" rel="nofollow">vitepress</a> + <a href="https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions">github actions</a> + <a href="https://pages.github.com/">github pages</a> + <a href="https://giscus.app/" rel="nofollow">giscus</a> 构建网站。原因有以下几点：</p>
+<ul dir="auto">
+<li>多人协作</li>
+<li>不受平台制约</li>
+<li>github + git 常用操作学习</li>
+<li>github actions 自动执行一些脚本或发布任务</li>
+<li>方便进行扩展及二次开发</li>
+</ul>
+<p dir="auto">不过缺点也十分明显，就是无法通过平台引流。不过其目标为了记录自己，所以这个缺点可以忽略不计。</p>
+<p dir="auto">身为一名程序员，如果不会使用 GitHub，不能够在全球最大的同性交友网站畅游与学习，我认为不是一名合格的程序员。而参与项目就是最好的学习。</p>
+<h2 dir="auto">写作环境</h2>
+<ul dir="auto">
+<li><code>Node.js</code> - 基于 vitepress 搭建</li>
+<li><code>GitHub</code> - 用于多人协作</li>
+<li><code>zkuhut</code> - 加入 GitHub 组织（非必需）</li>
+</ul>
+<h2 dir="auto">写作要求</h2>
+<ul dir="auto">
+<li><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> 人/月至少输出一篇原创，坚持下来的，欢迎申请加入 <code>zkuhut</code> 组织</li>
+<li><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> 内容不限，技术，思考，新技术尝试等皆可</li>
+<li><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> 严谨性，专业术语，相关资源要有出处</li>
+<li><g-emoji class="g-emoji" alias="no_entry_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png">🚫</g-emoji> 打广告，卖课</li>
+<li><g-emoji class="g-emoji" alias="no_entry_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png">🚫</g-emoji> 搬运，抄袭</li>
+</ul>
+<h2 dir="auto">微信群</h2>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/143778088-eda0b390-4846-41f5-9e7d-522f73254c88.JPG"><img width="240" src="https://user-images.githubusercontent.com/16164244/143778088-eda0b390-4846-41f5-9e7d-522f73254c88.JPG" style="max-width: 100%;"></a></p>]]></description>
+</item>
+<item>
+  <title><![CDATA[这些年追过的动漫]]></title>
+  <link>https://github.com/lencx/z/discussions/35</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/35</guid>
+  <pubDate>2021-11-06</pubDate>
+  <description><![CDATA[<blockquote>
+<p dir="auto">以下列出的动漫，及评价，仅代表个人观点，不喜勿喷。看的动漫太多了，先列了能想起来的一部分，后面继续补充。</p>
+</blockquote>
+<ul dir="auto">
+<li><code>灵笼</code> - 世界观宏大，细节处理到极致，前几集可能看不懂，建议搭配解说一起看</li>
+<li><code>元龙</code> - 枪打修真者，只能说时代变了</li>
+<li><code>眷思量</code> - 画面太美，帧帧壁纸，故事情节有点一般</li>
+<li><code>星辰变</code> - 时长良心，打斗效果没得说</li>
+<li><code>白蛇传</code> - 好看</li>
+<li><code>两不疑</code> - 有点萌</li>
+<li><code>枕刀歌</code> - 打斗效果拉满</li>
+<li><code>观海策</code> - 以神话，山海经，战国策等中国文化为背景</li>
+<li><code>斗破苍穹</code> - 真三年之约，人物建模，打斗场面从第一部到三年之约，越来越好</li>
+<li><code>西行纪</code> - 对话有点尬，每次看动漫都有种，脑子不太正常才会看这个</li>
+<li><code>一念永恒</code> - 主角很怕死，但是关键时刻能够挺身而出，顺便大坑一笔</li>
+<li><code>完美世界</code> - 剧情紧凑，打斗还行，就是有点翻来覆去就那几招的感觉，没啥新意</li>
+<li><code>雪鹰领主</code> - 有些剧情，挺尬的，感觉一般</li>
+<li><code>凡人修仙传</code> - 画风写实，剧情紧凑</li>
+<li><code>镇魂街</code></li>
+<li><code>地灵曲</code></li>
+<li><code>镜·双城</code></li>
+<li><code>星骸骑士</code></li>
+<li><code>武动乾坤</code></li>
+<li><code>山河剑心</code></li>
+<li><code>魔道祖师</code></li>
+<li><code>长剑风云</code></li>
+<li><code>雾山五行</code></li>
+<li><code>绝命响应</code></li>
+<li><code>游侠战纪</code></li>
+<li><code>魁拔之殊途</code></li>
+<li><code>猫妖的诱惑</code></li>
+<li><code>我是大神仙</code></li>
+<li><code>梦塔·雪谜城</code></li>
+<li><code>穿书自救指南</code></li>
+<li><code>妖精种植手册</code></li>
+<li><code>盗墓笔记秦岭神树</code></li>
+<li><code>逆转次元：AI崛起</code></li>
+<li><code>拾忆长安·明月几时有</code></li>
+</ul>
+<p dir="auto"><strong>玄机科技</strong></p>
+<ul dir="auto">
+<li><code>武庚纪</code> - 主角吹牛第一，逃跑第一，有点怂。最喜欢的角色“逆天而行”和“子羽”</li>
+<li><code>斗罗大陆</code> - 画质，细节处理是越来越好，但是剧情越来越拖沓</li>
+<li><code>吞噬星空</code></li>
+<li><code>天行九歌</code></li>
+<li><code>秦时明月</code></li>
+<li><code>天宝伏妖录</code></li>
+</ul>
+<p dir="auto"><strong>若森画江湖系列</strong></p>
+<ul dir="auto">
+<li><code>不良人</code> - 大帅就是大帅，以为的结局原来只是开局</li>
+<li><code>侠岚</code></li>
+<li><code>灵主</code></li>
+<li><code>杯莫停</code></li>
+<li><code>轨夜行</code></li>
+<li><code>换世门生</code></li>
+</ul>
+<p dir="auto"><strong>若鸿、索以文化</strong></p>
+<blockquote>
+<p dir="auto">三分片头，两分片尾，五分正片，半分内容！</p>
+</blockquote>
+<ul dir="auto">
+<li><code>妖神记</code>（若鸿）</li>
+<li><code>万界神主</code>（索以）</li>
+<li><code>万界春秋</code>（索以）</li>
+<li><code>长安幻街</code>（索以）</li>
+<li><code>我气哭了百万修炼者</code>（索以）</li>
+</ul>
+<hr>
+<p dir="auto"><strong>灵笼解说</strong></p>
+<ul dir="auto">
+<li><a href="https://space.bilibili.com/7946432/channel/seriesdetail?sid=447866" rel="nofollow">利维坦mY -《灵笼》专区</a></li>
+<li><a href="https://space.bilibili.com/609771/channel/detail?cid=164320" rel="nofollow">迷路de阿狸 - 灵笼解读</a></li>
+<li><a href="https://www.bilibili.com/video/BV13K4y1V7h9" rel="nofollow">《 灵 笼 启 示 录 》这也许是你能吹一辈子的动画</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ih411k7x6" rel="nofollow">一切众生，本来而有！全新角度解构灵笼世界观！【灵笼】深度解析</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Ab4y1f726" rel="nofollow">【医学博士】冉冰还会复活么？I 其实灵笼中早就透露了答案</a></li>
+<li><a href="https://www.bilibili.com/video/BV1zZ4y1g7JG" rel="nofollow">医学博士】 我们与《灵笼》的世界还有多远？I 如果没有伦理道德，医学将会发展到什么样？</a></li>
+<li><a href="https://www.bilibili.com/video/BV1PQ4y1d788" rel="nofollow">【全网第一】我破解了灵笼的上古文字-发现惊天大秘密</a></li>
+<li><a href="https://www.bilibili.com/video/BV1WQ4y1R77u" rel="nofollow">【全站最硬核】灵笼特别篇-白月魁-打戏-逐帧解析科普</a></li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[Web Development Guide]]></title>
+  <link>https://github.com/lencx/z/discussions/8</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/8</guid>
+  <pubDate>2021-12-24</pubDate>
+  <description><![CDATA[<h2 dir="auto">Guide</h2>
+<ul dir="auto">
+<li><a href="https://www.freecodecamp.org" rel="nofollow">Learn to Code — For Free — Coding Courses for Busy People</a> - Learn to Code — For Free.</li>
+<li><a href="https://developer.mozilla.org" rel="nofollow">MDN Web Docs</a> - The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.</li>
+<li><a href="https://developers.google.com/web" rel="nofollow">Web  |  Google Developers</a> - Build the next generation of web experiences.</li>
+<li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Development for Beginners - A Curriculum</a> - 24 Lessons, 12 Weeks, Get Started as a Web Developer</li>
+<li><a href="https://javascript.info/" rel="nofollow">The Modern JavaScript Tutorial</a> - Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.</li>
+<li><a href="https://caniuse.com" rel="nofollow">Can I use... Support tables for HTML5, CSS3, etc</a> - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.</li>
+<li><a href="https://www.w3schools.com" rel="nofollow">W3Schools Online Web Tutorials</a> - Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more.</li>
+<li><a href="https://dev.to" rel="nofollow">DEV Community <g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩‍💻</g-emoji><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji></a> - A constructive and inclusive social network for software developers. With you every step of your journey.</li>
+<li><a href="https://medium.com" rel="nofollow">Medium</a> - Every idea needs a Medium.</li>
+<li><a href="https://www.sitepoint.com" rel="nofollow">Sitepoint</a> - Stay at the cutting edge of tech</li>
+<li><a href="https://fireship.io" rel="nofollow">Fireship.io</a> - Training and Consulting for App Developers | Full Courses, Video Lessons, Chat, and More.</li>
+<li><a href="https://ui.dev" rel="nofollow">Master the JavaScript Ecosystem - ui.dev</a> - Comprehensive learning resources for mastering the JavaScript ecosystem.</li>
+<li><a href="https://reacttraining.com" rel="nofollow">React Training</a> - React Corporate Workshops, Training, and Consulting.</li>
+<li><a href="https://github.com/taowen/awesome-lowcode">awesome-lowcode</a> - 国内低代码平台从业者交流</li>
+<li><a href="https://github.com/dexteryy/spellbook-of-modern-webdev">Spellbook of Modern Web Dev</a> - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development</li>
+<li><a href="https://www.30secondsofcode.org/" rel="nofollow">30 seconds of code</a> - Browse 1043 short code snippets for all your development needs on 30 seconds of code.</li>
+<li><a href="https://github.com/lencx/z/discussions/33" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/33/hovercard">JavaScript Series</a></li>
+<li><a href="https://github.com/lencx/z/discussions/5" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/5/hovercard">CSS Series</a></li>
+</ul>
+<h2 dir="auto">Frame</h2>
+<ul dir="auto">
+<li><a href="https://reactjs.org" rel="nofollow">React</a> - A JavaScript library for building user interfaces
+<ul dir="auto">
+<li><a href="https://github.com/preactjs/preact">Preact</a> - <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji> Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM.</li>
+</ul>
+</li>
+<li><a href="https://vuejs.org" rel="nofollow">Vue.js</a> - The Progressive JavaScript Framework
+<ul dir="auto">
+<li><a href="https://github.com/vuejs/petite-vue">petite-vue</a> - 5kb subset of Vue optimized for progressive enhancement</li>
+</ul>
+</li>
+<li><a href="https://angular.io" rel="nofollow">Angular</a> - The modern web developer's platform</li>
+<li><a href="https://svelte.dev" rel="nofollow">Svelte</a> - Cybernetically enhanced web apps</li>
+<li><a href="https://github.com/yisar/fre">Fre</a> - <g-emoji class="g-emoji" alias="ghost" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">👻</g-emoji> Tiny Footprint Concurrent UI library for Fiber.</li>
+<li><a href="https://www.solidjs.com" rel="nofollow">Solid</a> - Solid is a purely reactive library. It was designed from the ground up with a reactive core. It's influenced by reactive principles developed by previous libraries.</li>
+<li><a href="https://lit.dev" rel="nofollow">Lit</a> - Simple. Fast. Web Components.</li>
+</ul>
+<h3 dir="auto">Awesome</h3>
+<ul dir="auto">
+<li><a href="https://github.com/lencx/z/discussions/11" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/11/hovercard">Awesome React</a></li>
+<li><a href="https://github.com/lencx/z/discussions/67" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/67/hovercard">Awesome Vue</a></li>
+</ul>
+<h3 dir="auto">Charts</h3>
+<ul dir="auto">
+<li><a href="https://github.com/airbnb/visx">visx</a> - is a collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of react for updating the DOM.</li>
+<li><a href="https://antv.vision" rel="nofollow">Antv</a> - AntV is a new generation of data visualization technique from Ant Group. We provide best practices of data visualization with simplicity, convenience, profession, reliability, and infinite possibilities.</li>
+</ul>
+<h2 dir="auto">Surveys</h2>
+<ul dir="auto">
+<li><a href="https://w3techs.com" rel="nofollow">W3Techs - extensive and reliable web technology surveys</a> - W3Techs provides information about the usage of various types of technologies on the web.</li>
+</ul>
+<h2 dir="auto">RegExp</h2>
+<ul dir="auto">
+<li><a href="https://regexper.com/" rel="nofollow">Regexper</a> - Regular expression visualizer using railroad diagrams</li>
+<li><a href="https://jex.im/regulex" rel="nofollow">Regulex</a> - JavaScript Regular Expression Visualizer.</li>
+<li><a href="https://regexr.com/" rel="nofollow">RegExr: Learn, Build, &amp; Test RegEx</a> - RegExr is an online tool to learn, build, &amp; test Regular Expressions (RegEx / RegExp).</li>
+<li><a href="https://www.regular-expressions.info/" rel="nofollow">Regular-Expressions.info - Regex Tutorial, Examples and Reference - Regexp Patterns</a> - At Regular-Expressions.info you will find a wide range of in-depth information about a powerful search pattern language called regular expressions.</li>
+<li><a href="https://extendsclass.com/regex-tester.html" rel="nofollow">Online Regex tester and visualizer - Python, PHP, Ruby, JavaScript, Java</a> - Online regular expression tester for Python, PHP, Ruby, JS, Java and MySQL. Regex visualizer. Syntax highlighting. Cheatsheet. Generate string corresponding to a regex.</li>
+<li><a href="https://www.debuggex.com/" rel="nofollow">Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.</a> - Test your regex by visualizing it with a live editor. JavaScript, Python, and PCRE.</li>
+<li><a href="https://www.freeformatter.com/regex-tester.html" rel="nofollow">Free Online Regular Expression Tester - FreeFormatter.com</a> - Free online regular expression tester with cheatsheet and most common solutions to common problems</li>
+</ul>
+<h2 dir="auto">Blog</h2>
+<ul dir="auto">
+<li><a href="https://2ality.com" rel="nofollow">2ality</a> – JavaScript and more</li>
+<li><a href="https://alligator.io" rel="nofollow">Front-end Web Development, Chewed Up ← Alligator.io</a> - Learn Angular 2+, Vue.js, React, TypeScript, Ionic, JavaScript (ES6/ES2015+) &amp; CSS with short, straightforward posts.</li>
+<li><a href="https://overreacted.io" rel="nofollow">Overreacted</a> - Personal blog by Dan Abramov. I explain with words and code.</li>
+<li><a href="https://www.robinwieruch.de" rel="nofollow">RWieruch</a> - Software Engineer for React.js, Node.js, GraphQL and JavaScript. Based in Berlin, German/English speaking. Consulting/Freelancing for Web Development project: Code Audits/Reviews, Workshops, Training, Implementation ...</li>
+<li><a href="https://daveceddia.com" rel="nofollow">Dave Ceddia</a> - Articles to help you learn and master frontend development with React.</li>
+<li><a href="https://charliegerard.dev" rel="nofollow">Charlie Gerard | Senior frontend developer &amp; Creative Technologist</a> - Collection of side projects, conference talks and blog posts experimenting with frontend technologies and human-computer interaction.</li>
+<li><a href="https://lea.verou.me/" rel="nofollow">Lea Verou – Life at the bleeding edge (of web standards)</a></li>
+<li><a href="https://chriscoyier.net/" rel="nofollow">Blog - Chris Coyier</a></li>
+<li><a href="https://flaviocopes.com/" rel="nofollow">Flavio Copes</a> - JavaScript and Web Development Tutorials</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[Node.js Terminal Libraries]]></title>
+  <link>https://github.com/lencx/z/discussions/69</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/69</guid>
+  <pubDate>2021-10-04</pubDate>
+  <description><![CDATA[<ul dir="auto">
+<li><a href="https://github.com/cacjs/cac">cac</a> - Simple yet powerful framework for building command-line apps.</li>
+<li><a href="https://github.com/chalk/chalk">chalk</a> - <g-emoji class="g-emoji" alias="crayon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f58d.png">🖍</g-emoji> Terminal string styling done right
+<ul dir="auto">
+<li><a href="https://github.com/marvinhagemeister/kolorist">kolorist</a> - Tiny library to put colors into stdin/stdout <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji></li>
+</ul>
+</li>
+<li><a href="https://github.com/sindresorhus/ora">ora</a> - Elegant terminal spinner
+<ul dir="auto">
+<li><a href="https://github.com/jcarpanelli/spinnies">spinnies</a> - Node.js module to create and manage multiple spinners in command-line interface programs</li>
+</ul>
+</li>
+<li><a href="https://github.com/enquirer/enquirer">enquirer</a> - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!</li>
+<li><a href="https://github.com/google/zx">zx</a> - A tool for writing better scripts</li>
+<li><a href="https://github.com/substack/minimist">minimist</a> - parse argument options
+<ul dir="auto">
+<li><a href="https://github.com/vercel/arg">arg</a> - arg is an unopinionated, no-frills CLI argument parser.</li>
+</ul>
+</li>
+<li><a href="https://github.com/visionmedia/debug">debug</a> - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers</li>
+<li><a href="https://github.com/sindresorhus/execa">execa</a> - Process execution for humans</li>
+<li><a href="https://github.com/npm/node-semver">node-semver</a> - The semver parser for node (the one npm uses)</li>
+<li><a href="https://github.com/unjs/consola">consola</a> - Elegant Console Logger for Node.js and Browser <g-emoji class="g-emoji" alias="koala" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f428.png">🐨</g-emoji></li>
+<li><a href="https://github.com/antfu/esno">esno</a> - TypeScript / ESNext node runtime powered by esbuild</li>
+<li><a href="https://github.com/antfu/ni">ni</a> - <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji> Use the right package manager</li>
+<li><a href="https://github.com/lukeed/sade">sade</a> - Sade is a small but powerful tool for building command-line interface (CLI) applications for Node.js that are fast, responsive, and helpful!</li>
+</ul>
+<h3 dir="auto">fs</h3>
+<ul dir="auto">
+<li><a href="https://github.com/isaacs/rimraf">rimraf</a> - A <code>rm -rf</code> util for nodejs
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/del">del</a> - Delete files and directories</li>
+</ul>
+</li>
+<li><a href="https://github.com/substack/node-mkdirp">mkdirp</a> - Recursively mkdir, like <code>mkdir -p</code>, but in node.js</li>
+<li><a href="https://github.com/jprichardson/node-fs-extra">Node.js: fs-extra</a> - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()</li>
+<li><a href="https://github.com/mrmlnc/fast-glob">fast-glob</a> - <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> It's a very fast and efficient glob library for Node.js
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/globby">globby</a> - User-friendly glob matching</li>
+</ul>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[WebAssembly Series]]></title>
+  <link>https://github.com/lencx/z/discussions/22</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/22</guid>
+  <pubDate>2021-09-23</pubDate>
+  <description><![CDATA[<h2 dir="auto">Guide</h2>
+<ul dir="auto">
+<li><a href="https://developer.mozilla.org/zh-CN/docs/WebAssembly" rel="nofollow">MDN WebAssembly</a></li>
+<li><a href="https://hacks.mozilla.org/category/webassembly/" rel="nofollow">[Mozilla Hacks] WebAssembly Articles</a> - Articles posted in WebAssembly</li>
+<li><a href="https://webassembly.org" rel="nofollow">webassembly.org</a> - WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.</li>
+<li><a href="https://bytecodealliance.org/articles/" rel="nofollow">Bytecode Alliance</a> - The Bytecode Alliance is a nonprofit organization dedicated to creating secure new software foundations, building on standards such as WebAssembly and WebAssembly System Interface (WASI).</li>
+<li><a href="https://rustwasm.github.io/docs/book" rel="nofollow">Rust <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">🦀</g-emoji>   and WebAssembly <g-emoji class="g-emoji" alias="spider_web" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f578.png">🕸</g-emoji>   </a> - This small book describes how to use Rust and WebAssembly together.</li>
+<li><a href="https://github.com/appcypher/awesome-wasm-langs">Awesome WebAssembly Languages</a> - <g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">😎</g-emoji>  A curated list of languages that compile directly to or have their VMs in WebAssembly</li>
+<li><a href="https://wasmweekly.news" rel="nofollow">WebAssembly Weekly</a> - A weekly newsletter for keeping on top of what's new in the world of WebAssembly, with tutorials, examples, articles, and more.</li>
+<li><a href="https://github.com/mbasso/awesome-wasm">Awesome Wasm</a> - <g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">😎</g-emoji>  Curated list of awesome things regarding WebAssembly (wasm) ecosystem.</li>
+<li><a href="https://wasmbyexample.dev/home.en-us.html" rel="nofollow">Wasm By Example</a> - A hands-on introduction into WebAssembly ( Wasm ). Containing simple wasm examples and wasm tutorials on how to implement concepts and various tasks using WebAssembly.</li>
+</ul>
+<h2 dir="auto">WASI &amp; VM &amp; VDOM</h2>
+<ul dir="auto">
+<li><a href="https://github.com/bytecodealliance/wasmtime">wasmtime</a> - Standalone JIT-style runtime for WebAssembly, using Cranelift</li>
+<li><a href="https://github.com/wasm3/wasm3">Wasm3</a> - <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>  The fastest WebAssembly interpreter, and the most universal runtime</li>
+<li><a href="https://github.com/wasmerio/wasmer">Wasmer</a> - <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>  The leading WebAssembly Runtime supporting WASI and Emscripten.</li>
+<li><a href="https://github.com/bytecodealliance/lucet">Lucet</a> - Lucet, the Sandboxing WebAssembly Compiler.</li>
+<li><a href="https://github.com/WasmEdge/WasmEdge">WasmEdge</a> - WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications.</li>
+<li><a href="https://github.com/mbasso/asm-dom">asm-dom</a> - A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications)</li>
+</ul>
+<h2 dir="auto">Tools</h2>
+<ul dir="auto">
+<li><a href="https://wapm.io" rel="nofollow">wapm</a> - <code>WAPM</code> is the WebAssembly Package Manager.</li>
+<li><a href="https://github.com/thedodd/trunk">trunk</a> - Build, bundle &amp; ship your Rust WASM application to the web.</li>
+<li><a href="https://github.com/bytecodealliance/wasm-tools">wasm-tools</a> - Rust tooling for low-level manipulation of WebAssembly modules.</li>
+<li><a href="https://github.com/rustwasm/wasm-pack">wasm-pack</a> - <g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji>  <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>  your favorite rust -&gt; wasm workflow tool!</li>
+</ul>
+<h2 dir="auto">Optimizing</h2>
+<ul dir="auto">
+<li><a href="https://rustwasm.github.io/book/reference/code-size.html" rel="nofollow">Shrinking <code>.wasm</code> Code Size</a>
+<ul dir="auto">
+<li><a href="https://github.com/WebAssembly/binaryen">Binaryen</a> - Binaryen is a compiler and toolchain infrastructure library for WebAssembly, written in C++. It aims to make compiling to WebAssembly easy, fast, and effective.</li>
+<li><a href="https://github.com/rustwasm/twiggy">Twiggy</a> - Twiggy <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji>  is a code size profiler</li>
+</ul>
+</li>
+<li><a href="https://emscripten.org/docs/optimizing/Optimizing-Code.html" rel="nofollow">Optimizing Code (<code>cpp</code>)</a></li>
+<li><a href="https://arxiv.org/pdf/2002.10213.pdf" rel="nofollow">Superoptimization of WebAssembly Bytecode</a></li>
+</ul>
+<h2 dir="auto">Open Source</h2>
+<ul dir="auto">
+<li><a href="https://github.com/lencx/vite-plugin-rsw">vite-plugin-rsw</a> - <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">🦀</g-emoji>  wasm-pack plugin for Vite</li>
+<li><a href="https://github.com/lencx/rsw-node">rsw-node</a> - <g-emoji class="g-emoji" alias="white_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26aa.png">⚪️</g-emoji>  <code>wasm-pack build</code> executed in remote deployment</li>
+<li><a href="https://github.com/GoogleChromeLabs/wasi-fs-access">wasi-fs-access</a> - This is a demo shell powered by WebAssembly, WASI, Asyncify and File System Access API.</li>
+<li><a href="https://ffmpegwasm.github.io" rel="nofollow">FFMPEG.WASM</a> - ffmpeg.wasm is a pure WebAssembly / JavaScript port of FFmpeg. It enables video &amp; audio record, convert and stream right inside browsers.</li>
+<li><a href="https://github.com/ColinEberhardt/wasm-rust-chip8">wasm-rust-chip8</a> - A WebAssembly CHIP-8 emulator written with Rust</li>
+<li><a href="https://bbodi.github.io/notecalc3" rel="nofollow">NoteCalc</a> -  is a handy notepad with a smart builtin calculator.</li>
+<li><a href="https://github.com/GraphiteEditor/Graphite">Graphite</a> - Powerful 2D vector and raster editing: procedural and nondestructive. (Photoshop + Illustrator + Houdini = Graphite)</li>
+<li><a href="https://github.com/PaddiM8/kalker">Kalker/kalk</a> - is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals</li>
+<li><a href="https://github.com/torch2424/wasmboy">wasmboy</a> - Game Boy / Game Boy Color Emulator Library, <g-emoji class="g-emoji" alias="video_game" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png">🎮</g-emoji>   written for WebAssembly using AssemblyScript. <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>  Demos built with Preact and Svelte. <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji></li>
+<li><a href="https://github.com/38/plotters">Plotters</a> - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">🦀</g-emoji>   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>  <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji></li>
+<li><a href="https://github.com/tomaka/redshirt">redshirt</a> - The redshirt operating system is an experiment to build some kind of operating-system-like environment where executables are all in Wasm and are loaded from an IPFS-like decentralized network.</li>
+<li><a href="https://github.com/silvia-odwyer/photon">Photon</a> - <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>  Rust/WebAssembly image processing library</li>
+<li><a href="https://github.com/rsms/markdown-wasm">markdown-wasm</a> - Markdown parser and HTML generator implemented in WebAssembly, based on md4c.</li>
+<li><a href="https://github.com/Daninet/hash-wasm">hash-wasm</a> - Hash-WASM is a <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>  lightning fast<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>  hash function library for browsers and Node.js. It is using hand-tuned WebAssembly binaries to calculate the hash faster than other libraries.</li>
+<li><a href="https://github.com/cloudflare/serde-wasm-bindgen">serde-wasm-bindgen</a> - Native integration of <a href="https://serde.rs" rel="nofollow">Serde</a> with <a href="https://github.com/rustwasm/wasm-bindgen">wasm-bindgen</a></li>
+<li><a href="https://github.com/sycamore-rs/sycamore">sycamore</a> - A reactive DOM library for Rust in WASM.</li>
+<li><a href="https://github.com/samthor/gumnut">gumnut</a> - JS parser in Web Assembly / C.</li>
+<li><a href="https://github.com/Birch-san/box2d-wasm">box2d-wasm</a> - Box2D physics engine compiled to WebAssembly. Supports TypeScript and ES modules.</li>
+<li><a href="https://github.com/tensorflow/tfjs">TensorFlow.js</a> - A WebGL accelerated JavaScript library for training and deploying ML models.</li>
+</ul>
+<h2 dir="auto">Article</h2>
+<ul dir="auto">
+<li><a href="https://medium.com/@alshdavid/a-vision-for-future-web-technologies-wasm-pwas-9f8c6e1fe6b0" rel="nofollow">A vision for future Web Technologies — WASM &amp; PWAs</a></li>
+<li><a href="https://thenewstack.io/the-three-pillars-of-webassembly/" rel="nofollow">The Three Pillars of WebAssembly</a></li>
+<li><a href="https://www.cloudsavvyit.com/13696/why-webassembly-frameworks-are-the-future-of-the-web/" rel="nofollow">Why WebAssembly Frameworks Are the Future of the Web</a></li>
+<li><a href="https://lencx.github.io/book/wasm/rust_wasm_frontend.html" rel="nofollow">WebAssembly入门</a></li>
+<li><a href="https://www.yuque.com/kiwenlau/blog/zg3349" rel="nofollow">十年磨一剑，WebAssembly是如何诞生的？</a></li>
+<li><a href="https://blog.scottlogic.com/2021/06/21/state-of-wasm.html" rel="nofollow">The State of WebAssembly 2021</a></li>
+<li><a href="https://web.dev/webassembly-threads/" rel="nofollow">Using WebAssembly threads from C, C++ and Rust</a></li>
+<li><a href="https://blog.discourse.org/2021/07/faster-user-uploads-on-discourse-with-rust-webassembly-and-mozjpeg/" rel="nofollow">Faster (and smaller) uploads in Discourse with Rust, WebAssembly and MozJPEG</a></li>
+<li><a href="https://wasmbook.com/" rel="nofollow">WasmBook</a> - Rick Battagline's WebAssembly Playground</li>
+<li><a href="https://surma.dev/things/js-to-asc/" rel="nofollow">Is WebAssembly magic performance pixie dust?</a></li>
+<li><a href="https://www.edx.org/course/webassembly-actors-from-cloud-to-edge" rel="nofollow">WebAssembly Actors: From Cloud to Edge</a> - Embrace the actor model to build portable, secure, lightweight WebAssembly modules that thrive in the cloud, at the edge, and anywhere in between.</li>
+<li><a href="https://blog.ttulka.com/learning-webassembly-series" rel="nofollow">Learning WebAssembly Series</a> - A series of learning texts covering the first steps with WebAssembly for complete beginners.</li>
+<li><a href="https://blog.scottlogic.com/2020/11/23/ffmpeg-webassembly.html" rel="nofollow">In-browser transcoding of video files with FFmpeg and WebAssembly</a></li>
+<li><a href="https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface" rel="nofollow">Standardizing WASI: A system interface to run WebAssembly outside the web</a></li>
+<li><a href="https://paulbutler.org/2020/the-webassembly-app-gap" rel="nofollow">The WebAssembly App Gap</a></li>
+<li><a href="https://developer.ibm.com/articles/why-webassembly-and-rust-together-improve-nodejs-performance" rel="nofollow">Why using WebAssembly and Rust together improves Node.js performance</a></li>
+<li><a href="https://v8.dev/docs/wasm-compilation-pipeline" rel="nofollow">[V8] WebAssembly compilation pipeline</a></li>
+<li><a href="https://pspdfkit.com/blog/2018/optimize-webassembly-startup-performance/" rel="nofollow">Optimizing WebAssembly Startup Time</a></li>
+<li><a href="https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/wasm/" rel="nofollow">Bringing You Up to Speed on How Compiling WebAssembly is Faster</a></li>
+<li><a href="https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html#getting-the-code" rel="nofollow">Maybe you don't need Rust and WASM to speed up your JS</a></li>
+<li><a href="https://thenewstack.io/using-web-assembly-written-in-rust-on-the-server-side/" rel="nofollow">Using WebAssembly Written in Rust on the Server-Side</a></li>
+<li><a href="https://thenewstack.io/the-pain-of-debugging-webassembly/" rel="nofollow">The Pain of Debugging WebAssembly</a></li>
+<li><a href="https://thenewstack.io/kubecon-eu-why-webassembly-is-more-than-a-javascript-replacement/" rel="nofollow">KubeCon EU: WebAssembly Is More Than a JavaScript Replacement</a></li>
+<li><a href="https://thenewstack.io/why-webassembly-modules-could-be-the-new-de-facto-unit-of-compute/" rel="nofollow">Why WebAssembly Modules Could Be the New de Facto Unit of Compute</a></li>
+<li><a href="https://www.infinyon.com/blog/2021/08/smartstream-aggregates/" rel="nofollow">Aggregate streaming data in real-time with WebAssembly</a></li>
+<li><a href="https://blog.logrocket.com/full-stack-rust-a-complete-tutorial-with-examples/" rel="nofollow">Full-stack Rust: A complete tutorial with examples</a></li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[滚动进度条]]></title>
+  <link>https://github.com/lencx/z/discussions/72</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/72</guid>
+  <pubDate>2021-09-20</pubDate>
+  <description><![CDATA[<blockquote>
+<p dir="auto">学习框架语言，写代码是最快的入门方式。为了给基于 <code>vitepress</code> 构建的 Blog 新增功能，现学 <code>Vue3</code>，诞生了下面的进度条组件。</p>
+</blockquote>
+<p dir="auto"><a href="https://code.lencx.tech/" rel="nofollow">体验地址</a> - 手写 Code Snippets 系列</p>
+<p dir="auto">创建一个进度条，用来指示页面滚动百分比，主要有两点注意事项及一个思考：</p>
+<ul dir="auto">
+<li>使用 <code>position: fixed</code> 将滚动进度条置于页面顶部，<code>z-index</code> 设置一个较大的值是为了保证元素在页面内容的最上层。</li>
+<li>使用 <code>EventTarget.addEventListener</code> 和 <code>Element.scrollTop</code> 来确定文档的滚动百分比并将其设置为滚动进度条的宽度。</li>
+<li>思考 - 如果页面容器高度发生变化，会发生什么？</li>
+</ul>
+<h2 dir="auto"><g-emoji class="g-emoji" alias="diamond_shape_with_a_dot_inside" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png">💠</g-emoji> 核心</h2>
+<div class="highlight highlight-text-html-basic position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;div id=&quot;scroll_progress_bar&quot;&gt;&lt;/div&gt;"><pre><span class="pl-kos">&lt;</span><span class="pl-ent">div</span> <span class="pl-c1">id</span>="<span class="pl-s">scroll_progress_bar</span>"<span class="pl-kos">&gt;</span><span class="pl-kos">&lt;/</span><span class="pl-ent">div</span><span class="pl-kos">&gt;</span></pre></div>
+<div class="highlight highlight-source-css position-relative overflow-auto" data-snippet-clipboard-copy-content="#scroll_progress_bar {
+  position: fixed;
+  top: 0;
+  width: 0%;
+  height: 4px;
+  background: #7983ff;
+  z-index: 10000;
+}"><pre><span class="pl-kos">#</span><span class="pl-c1">scroll_progress_bar</span> {
+  <span class="pl-c1">position</span><span class="pl-kos">:</span> fixed;
+  <span class="pl-c1">top</span><span class="pl-kos">:</span> <span class="pl-c1">0</span>;
+  <span class="pl-c1">width</span><span class="pl-kos">:</span> <span class="pl-c1">0<span class="pl-smi">%</span></span>;
+  <span class="pl-c1">height</span><span class="pl-kos">:</span> <span class="pl-c1">4<span class="pl-smi">px</span></span>;
+  <span class="pl-c1">background</span><span class="pl-kos">:</span> <span class="pl-pds"><span class="pl-kos">#</span>7983ff</span>;
+  <span class="pl-c1">z-index</span><span class="pl-kos">:</span> <span class="pl-c1">10000</span>;
+}</pre></div>
+<div class="highlight highlight-source-js position-relative overflow-auto" data-snippet-clipboard-copy-content="const scrollProgress = document.getElementById('scroll_progress_bar');
+// 滚动条高度
+const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+
+window.addEventListener('scroll', () =&gt; {
+  const scrollTop = document.body.scrollTop || document.documentElement.scrollTop;
+  // 当前进度条进度 = 当前滚动条位置 / 滚动条高度
+  scrollProgress.style.width = `${(scrollTop / height) * 100}%`;
+});"><pre><span class="pl-k">const</span> <span class="pl-s1">scrollProgress</span> <span class="pl-c1">=</span> <span class="pl-smi">document</span><span class="pl-kos">.</span><span class="pl-en">getElementById</span><span class="pl-kos">(</span><span class="pl-s">'scroll_progress_bar'</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+<span class="pl-c">// 滚动条高度</span>
+<span class="pl-k">const</span> <span class="pl-s1">height</span> <span class="pl-c1">=</span> <span class="pl-smi">document</span><span class="pl-kos">.</span><span class="pl-c1">documentElement</span><span class="pl-kos">.</span><span class="pl-c1">scrollHeight</span> <span class="pl-c1">-</span> <span class="pl-smi">document</span><span class="pl-kos">.</span><span class="pl-c1">documentElement</span><span class="pl-kos">.</span><span class="pl-c1">clientHeight</span><span class="pl-kos">;</span>
+
+<span class="pl-smi">window</span><span class="pl-kos">.</span><span class="pl-en">addEventListener</span><span class="pl-kos">(</span><span class="pl-s">'scroll'</span><span class="pl-kos">,</span> <span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">{</span>
+  <span class="pl-k">const</span> <span class="pl-s1">scrollTop</span> <span class="pl-c1">=</span> <span class="pl-smi">document</span><span class="pl-kos">.</span><span class="pl-c1">body</span><span class="pl-kos">.</span><span class="pl-c1">scrollTop</span> <span class="pl-c1">||</span> <span class="pl-smi">document</span><span class="pl-kos">.</span><span class="pl-c1">documentElement</span><span class="pl-kos">.</span><span class="pl-c1">scrollTop</span><span class="pl-kos">;</span>
+  <span class="pl-c">// 当前进度条进度 = 当前滚动条位置 / 滚动条高度</span>
+  <span class="pl-s1">scrollProgress</span><span class="pl-kos">.</span><span class="pl-c1">style</span><span class="pl-kos">.</span><span class="pl-c1">width</span> <span class="pl-c1">=</span> <span class="pl-s">`<span class="pl-s1"><span class="pl-kos">${</span><span class="pl-kos">(</span><span class="pl-s1">scrollTop</span> <span class="pl-c1">/</span> <span class="pl-s1">height</span><span class="pl-kos">)</span> <span class="pl-c1">*</span> <span class="pl-c1">100</span><span class="pl-kos">}</span></span>%`</span><span class="pl-kos">;</span>
+<span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">;</span></pre></div>
+<h2 dir="auto"><g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji> 实现</h2>
+<h3 dir="auto"><g-emoji class="g-emoji" alias="large_orange_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f536.png">🔶</g-emoji> Vue3</h3>
+<div class="highlight highlight-text-html-vue position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;!-- ScrollProgress.vue --&gt;
+
+&lt;script setup lang=&quot;ts&quot;&gt;
+import { ref, onMounted, onUnmounted } from 'vue'
+
+// 在 `&lt;script setup&gt;` 标签下要使用 `props`，则需要使用 `defineProps` 进行声明
+const props = defineProps({
+  // 滚动容器 - 如果容器高度会发生变化，则需要对其进行监听，否则会滚动进度会出现计算误差
+  root: {
+    type: String,
+    default: '#app',
+    required: false,
+  },
+  // 滚动条的高度
+  height: {
+    type: String,
+    default: '4px',
+    required: false,
+  },
+  // 滚动条颜色
+  theme: {
+    type: String,
+    default: '#3eaf7c',
+    required: false,
+    validator: (v: string) =&gt; {
+      document.head.style.color = v
+      const q = document.head.style.color
+      document.head.style.color = ''
+      return !!q
+    },
+  },
+  // 滚动条放置的位置：顶部或底部
+  placement: {
+    type: String,
+    default: 'top',
+    required: false,
+    validator: (v: string) =&gt; {
+      if (!['top', 'bottom'].includes(v)) {
+        console.error(`[ScrollProgress(placement)] The value must match one of these strings: 'top' | 'bottom'`)
+        return false
+      }
+      return true
+    },
+  },
+  // 滚动条在页面中的层级
+  zIndex: {
+    type: [Number, String],
+    default: 10000,
+    required: false,
+    validator: (v: string) =&gt; /^-?[\d]+$/.test(v),
+  },
+})
+
+const el = ref(null)
+const appHeight = ref(0)
+
+// 为了避免进度条因页面容器高度变化导致计算偏差，需要对页面容器进行监听，动态获取其高度
+onMounted(() =&gt; {
+  // 需要观察变动的节点
+  const targetNode = document.querySelector(props.root)
+  if (!targetNode) return console.error(`[ScrollProgress(root)] '${props.root}' is invalid`)
+  // 观察器的配置（需要观察什么变动）
+  const config = { attributes: true, childList: false, subtree: true }
+  // 创建一个观察器实例并传入当观察到变动时执行的回调函数
+  const observer = new MutationObserver((mutationsList: MutationRecord[]) =&gt; {
+    // Use traditional 'for loops' for IE 11
+    for(let mutation of mutationsList) {
+      if (mutation.type === 'attributes') {
+        appHeight.value = document.documentElement.scrollHeight
+      }
+    }
+  })
+  // 开始观察目标节点
+  observer.observe(targetNode, config)
+})
+
+// 滚动事件执行的回调函数
+const listener = () =&gt; {
+  const scrollProgress = el.value
+  const height = appHeight.value - document.documentElement.clientHeight
+  const scrollTop = document.body.scrollTop || document.documentElement.scrollTop
+  scrollProgress.style.width = `${(scrollTop / height) * 100}%`
+}
+
+onMounted(() =&gt; window.addEventListener('scroll', listener))
+onUnmounted(() =&gt; window.removeEventListener('scroll', listener))
+
+const style: any = {
+  background: props.theme,
+  zIndex: props.zIndex,
+  height: props.height,
+}
+
+if (props.placement === 'top') style.top = 0
+if (props.placement === 'bottom') style.bottom = 0
+
+// 在 `&lt;script setup&gt;` 标签下显式公开属性，则需要使用 `defineExpose`
+defineExpose({ style })
+&lt;/script&gt;
+
+&lt;template&gt;
+  &lt;div id=&quot;scroll_progress&quot; ref=&quot;el&quot; :style=&quot;style&quot; /&gt;
+&lt;/template&gt;
+
+&lt;style scoped&gt;
+#scroll_progress {
+  position: fixed;
+  width: 0%;
+  transition: width 300ms ease-out;
+}
+&lt;/style&gt;"><pre><span class="pl-c"><span class="pl-c">&lt;!--</span> ScrollProgress.vue <span class="pl-c">--&gt;</span></span>
+
+<span class="pl-s1">&lt;<span class="pl-ent">script</span> <span class="pl-e">setup</span> <span class="pl-e">lang</span>=<span class="pl-s"><span class="pl-pds">"</span>ts<span class="pl-pds">"</span></span>&gt;</span>
+<span class="pl-s1"><span class="pl-k">import</span> { <span class="pl-smi">ref</span>, <span class="pl-smi">onMounted</span>, <span class="pl-smi">onUnmounted</span> } <span class="pl-k">from</span> <span class="pl-s"><span class="pl-pds">'</span>vue<span class="pl-pds">'</span></span></span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-c"><span class="pl-c">//</span> 在 `&lt;script setup&gt;` 标签下要使用 `props`，则需要使用 `defineProps` 进行声明</span></span>
+<span class="pl-s1"><span class="pl-k"><span class="pl-k">const</span></span> props <span class="pl-k">=</span> <span class="pl-en">defineProps</span>({</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 滚动容器 - 如果容器高度会发生变化，则需要对其进行监听，否则会滚动进度会出现计算误差</span></span>
+<span class="pl-s1">  root: {</span>
+<span class="pl-s1">    type: <span class="pl-c1">String</span>,</span>
+<span class="pl-s1">    default: <span class="pl-s"><span class="pl-pds">'</span>#app<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">    required: <span class="pl-c1">false</span>,</span>
+<span class="pl-s1">  },</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 滚动条的高度</span></span>
+<span class="pl-s1">  height: {</span>
+<span class="pl-s1">    type: <span class="pl-c1">String</span>,</span>
+<span class="pl-s1">    default: <span class="pl-s"><span class="pl-pds">'</span>4px<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">    required: <span class="pl-c1">false</span>,</span>
+<span class="pl-s1">  },</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 滚动条颜色</span></span>
+<span class="pl-s1">  theme: {</span>
+<span class="pl-s1">    type: <span class="pl-c1">String</span>,</span>
+<span class="pl-s1">    default: <span class="pl-s"><span class="pl-pds">'</span>#3eaf7c<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">    required: <span class="pl-c1">false</span>,</span>
+<span class="pl-s1">    <span class="pl-en">validator</span>: (<span class="pl-v">v</span><span class="pl-k">:</span> <span class="pl-c1">string</span>) <span class="pl-k">=&gt;</span> {</span>
+<span class="pl-s1">      <span class="pl-c1">document</span>.<span class="pl-smi">head</span>.<span class="pl-c1">style</span>.<span class="pl-c1">color</span> <span class="pl-k">=</span> <span class="pl-smi">v</span></span>
+<span class="pl-s1">      <span class="pl-k"><span class="pl-k">const</span></span> q <span class="pl-k">=</span> <span class="pl-c1">document</span>.<span class="pl-smi">head</span>.<span class="pl-c1">style</span>.<span class="pl-c1">color</span></span>
+<span class="pl-s1">      <span class="pl-c1">document</span>.<span class="pl-smi">head</span>.<span class="pl-c1">style</span>.<span class="pl-c1">color</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span><span class="pl-pds">'</span></span></span>
+<span class="pl-s1">      <span class="pl-k">return</span> <span class="pl-k">!!</span><span class="pl-smi">q</span></span>
+<span class="pl-s1">    },</span>
+<span class="pl-s1">  },</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 滚动条放置的位置：顶部或底部</span></span>
+<span class="pl-s1">  placement: {</span>
+<span class="pl-s1">    type: <span class="pl-c1">String</span>,</span>
+<span class="pl-s1">    default: <span class="pl-s"><span class="pl-pds">'</span>top<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">    required: <span class="pl-c1">false</span>,</span>
+<span class="pl-s1">    <span class="pl-en">validator</span>: (<span class="pl-v">v</span><span class="pl-k">:</span> <span class="pl-c1">string</span>) <span class="pl-k">=&gt;</span> {</span>
+<span class="pl-s1">      <span class="pl-k">if</span> (<span class="pl-k">!</span>[<span class="pl-s"><span class="pl-pds">'</span>top<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>bottom<span class="pl-pds">'</span></span>].<span class="pl-en">includes</span>(<span class="pl-smi">v</span>)) {</span>
+<span class="pl-s1">        <span class="pl-c1">console</span>.<span class="pl-c1">error</span>(<span class="pl-s"><span class="pl-pds">`</span>[ScrollProgress(placement)] The value must match one of these strings: 'top' | 'bottom'<span class="pl-pds">`</span></span>)</span>
+<span class="pl-s1">        <span class="pl-k">return</span> <span class="pl-c1">false</span></span>
+<span class="pl-s1">      }</span>
+<span class="pl-s1">      <span class="pl-k">return</span> <span class="pl-c1">true</span></span>
+<span class="pl-s1">    },</span>
+<span class="pl-s1">  },</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 滚动条在页面中的层级</span></span>
+<span class="pl-s1">  zIndex: {</span>
+<span class="pl-s1">    type: [<span class="pl-c1">Number</span>, <span class="pl-c1">String</span>],</span>
+<span class="pl-s1">    default: <span class="pl-c1">10000</span>,</span>
+<span class="pl-s1">    required: <span class="pl-c1">false</span>,</span>
+<span class="pl-s1">    <span class="pl-en">validator</span>: (<span class="pl-v">v</span><span class="pl-k">:</span> <span class="pl-c1">string</span>) <span class="pl-k">=&gt;</span><span class="pl-sr"> <span class="pl-pds">/</span><span class="pl-k">^</span>-<span class="pl-k">?</span><span class="pl-c1">[<span class="pl-c1">\d</span>]</span><span class="pl-k">+</span><span class="pl-k">$</span><span class="pl-pds">/</span></span>.<span class="pl-c1">test</span>(<span class="pl-smi">v</span>),</span>
+<span class="pl-s1">  },</span>
+<span class="pl-s1">})</span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-k"><span class="pl-k">const</span></span> el <span class="pl-k">=</span> <span class="pl-en">ref</span>(<span class="pl-c1">null</span>)</span>
+<span class="pl-s1"><span class="pl-k"><span class="pl-k">const</span></span> appHeight <span class="pl-k">=</span> <span class="pl-en">ref</span>(<span class="pl-c1">0</span>)</span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-c"><span class="pl-c">//</span> 为了避免进度条因页面容器高度变化导致计算偏差，需要对页面容器进行监听，动态获取其高度</span></span>
+<span class="pl-s1"><span class="pl-en">onMounted</span>(() <span class="pl-k">=&gt;</span> {</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 需要观察变动的节点</span></span>
+<span class="pl-s1">  <span class="pl-k"><span class="pl-k">const</span></span> targetNode <span class="pl-k">=</span> <span class="pl-c1">document</span>.<span class="pl-c1">querySelector</span>(<span class="pl-smi">props</span>.<span class="pl-smi">root</span>)</span>
+<span class="pl-s1">  <span class="pl-k">if</span> (<span class="pl-k">!</span><span class="pl-smi">targetNode</span>) <span class="pl-k">return</span> <span class="pl-c1">console</span>.<span class="pl-c1">error</span>(<span class="pl-s"><span class="pl-pds">`</span>[ScrollProgress(root)] '${<span class="pl-smi">props</span>.<span class="pl-smi">root</span>}' is invalid<span class="pl-pds">`</span></span>)</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 观察器的配置（需要观察什么变动）</span></span>
+<span class="pl-s1">  <span class="pl-k"><span class="pl-k">const</span></span> config <span class="pl-k">=</span> { attributes: <span class="pl-c1">true</span>, childList: <span class="pl-c1">false</span>, subtree: <span class="pl-c1">true</span> }</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 创建一个观察器实例并传入当观察到变动时执行的回调函数</span></span>
+<span class="pl-s1">  <span class="pl-k"><span class="pl-k">const</span></span> observer <span class="pl-k">=</span> <span class="pl-k">new</span> <span class="pl-c1">MutationObserver</span>((<span class="pl-v">mutationsList</span><span class="pl-k">:</span> <span class="pl-en">MutationRecord</span>[]) <span class="pl-k">=&gt;</span> {</span>
+<span class="pl-s1">    <span class="pl-c"><span class="pl-c">//</span> Use traditional 'for loops' for IE 11</span></span>
+<span class="pl-s1">    <span class="pl-k">for</span>(<span class="pl-k">let</span> mutation <span class="pl-k">of</span> <span class="pl-smi">mutationsList</span>) {</span>
+<span class="pl-s1">      <span class="pl-k">if</span> (<span class="pl-smi">mutation</span>.<span class="pl-c1">type</span> <span class="pl-k">===</span> <span class="pl-s"><span class="pl-pds">'</span>attributes<span class="pl-pds">'</span></span>) {</span>
+<span class="pl-s1">        <span class="pl-smi">appHeight</span>.<span class="pl-c1">value</span> <span class="pl-k">=</span> <span class="pl-c1">document</span>.<span class="pl-c1">documentElement</span>.<span class="pl-smi">scrollHeight</span></span>
+<span class="pl-s1">      }</span>
+<span class="pl-s1">    }</span>
+<span class="pl-s1">  })</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 开始观察目标节点</span></span>
+<span class="pl-s1">  <span class="pl-smi">observer</span>.<span class="pl-c1">observe</span>(<span class="pl-smi">targetNode</span>, <span class="pl-smi">config</span>)</span>
+<span class="pl-s1">})</span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-c"><span class="pl-c">//</span> 滚动事件执行的回调函数</span></span>
+<span class="pl-s1"><span class="pl-k"><span class="pl-k">const</span></span> listener <span class="pl-k">=</span> () <span class="pl-k">=&gt;</span> {</span>
+<span class="pl-s1">  <span class="pl-k"><span class="pl-k">const</span></span> scrollProgress <span class="pl-k">=</span> <span class="pl-smi">el</span>.<span class="pl-c1">value</span></span>
+<span class="pl-s1">  <span class="pl-k"><span class="pl-k">const</span></span> height <span class="pl-k">=</span> <span class="pl-smi">appHeight</span>.<span class="pl-c1">value</span> <span class="pl-k">-</span> <span class="pl-c1">document</span>.<span class="pl-c1">documentElement</span>.<span class="pl-smi">clientHeight</span></span>
+<span class="pl-s1">  <span class="pl-k"><span class="pl-k">const</span></span> scrollTop <span class="pl-k">=</span> <span class="pl-c1">document</span>.<span class="pl-c1">body</span>.<span class="pl-smi">scrollTop</span> <span class="pl-k">||</span> <span class="pl-c1">document</span>.<span class="pl-c1">documentElement</span>.<span class="pl-smi">scrollTop</span></span>
+<span class="pl-s1">  <span class="pl-smi">scrollProgress</span>.<span class="pl-c1">style</span>.<span class="pl-c1">width</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">`</span>${(<span class="pl-smi">scrollTop</span> <span class="pl-k">/</span> <span class="pl-smi">height</span>) <span class="pl-k">*</span> <span class="pl-c1">100</span>}%<span class="pl-pds">`</span></span></span>
+<span class="pl-s1">}</span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-en">onMounted</span>(() <span class="pl-k">=&gt;</span> <span class="pl-c1">window</span>.<span class="pl-c1">addEventListener</span>(<span class="pl-s"><span class="pl-pds">'</span>scroll<span class="pl-pds">'</span></span>, <span class="pl-smi">listener</span>))</span>
+<span class="pl-s1"><span class="pl-en">onUnmounted</span>(() <span class="pl-k">=&gt;</span> <span class="pl-c1">window</span>.<span class="pl-c1">removeEventListener</span>(<span class="pl-s"><span class="pl-pds">'</span>scroll<span class="pl-pds">'</span></span>, <span class="pl-smi">listener</span>))</span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-k"><span class="pl-k">const</span></span> style<span class="pl-k">:</span> <span class="pl-c1">any</span> <span class="pl-k">=</span> {</span>
+<span class="pl-s1">  background: <span class="pl-smi">props</span>.<span class="pl-smi">theme</span>,</span>
+<span class="pl-s1">  zIndex: <span class="pl-smi">props</span>.<span class="pl-c1">zIndex</span>,</span>
+<span class="pl-s1">  height: <span class="pl-smi">props</span>.<span class="pl-c1">height</span>,</span>
+<span class="pl-s1">}</span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-k">if</span> (<span class="pl-smi">props</span>.<span class="pl-smi">placement</span> <span class="pl-k">===</span> <span class="pl-s"><span class="pl-pds">'</span>top<span class="pl-pds">'</span></span>) <span class="pl-smi">style</span>.<span class="pl-c1">top</span> <span class="pl-k">=</span> <span class="pl-c1">0</span></span>
+<span class="pl-s1"><span class="pl-k">if</span> (<span class="pl-smi">props</span>.<span class="pl-smi">placement</span> <span class="pl-k">===</span> <span class="pl-s"><span class="pl-pds">'</span>bottom<span class="pl-pds">'</span></span>) <span class="pl-smi">style</span>.<span class="pl-c1">bottom</span> <span class="pl-k">=</span> <span class="pl-c1">0</span></span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-c"><span class="pl-c">//</span> 在 `&lt;script setup&gt;` 标签下显式公开属性，则需要使用 `defineExpose`</span></span>
+<span class="pl-s1"><span class="pl-en">defineExpose</span>({ <span class="pl-smi">style</span> })</span>
+<span class="pl-s1">&lt;/<span class="pl-ent">script</span>&gt;</span>
+
+&lt;<span class="pl-ent">template</span>&gt;
+  &lt;<span class="pl-ent">div</span> <span class="pl-e">id</span>=<span class="pl-s"><span class="pl-pds">"</span>scroll_progress<span class="pl-pds">"</span></span> <span class="pl-e">ref</span>=<span class="pl-s"><span class="pl-pds">"</span>el<span class="pl-pds">"</span></span> :<span class="pl-e">style</span>=<span class="pl-s1"><span class="pl-pds">"</span>style<span class="pl-pds">"</span></span> /&gt;
+&lt;/<span class="pl-ent">template</span>&gt;
+
+<span class="pl-s1">&lt;<span class="pl-ent">style</span> <span class="pl-e">scoped</span>&gt;</span>
+<span class="pl-s1"><span class="pl-e">#scroll_progress</span> {</span>
+<span class="pl-s1">  <span class="pl-c1"><span class="pl-c1">position</span></span>: <span class="pl-c1">fixed</span>;</span>
+<span class="pl-s1">  <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">0<span class="pl-k">%</span></span>;</span>
+<span class="pl-s1">  <span class="pl-c1"><span class="pl-c1">transition</span></span>: width <span class="pl-c1">300<span class="pl-k">ms</span></span> <span class="pl-c1">ease-out</span>;</span>
+<span class="pl-s1">}</span>
+<span class="pl-s1">&lt;/<span class="pl-ent">style</span>&gt;</span></pre></div>
+<h2 dir="auto"><g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png">🎥</g-emoji> 演示</h2>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/133965898-4994f377-68de-4c6c-8d19-d00a61625c06.gif"><img src="https://user-images.githubusercontent.com/16164244/133965898-4994f377-68de-4c6c-8d19-d00a61625c06.gif" alt="scroll_progress_bar" style="max-width: 100%;"></a></p>
+<hr>
+<h2 dir="auto"><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> 参考</h2>
+<ul dir="auto">
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/API/Document/scroll_event" rel="nofollow">[MDN] Document: scroll event</a> - 文档视图或者一个元素在滚动时，会触发元素的scroll事件。</li>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/API/MutationObserver" rel="nofollow">[MDN] MutationObserver</a> - 接口提供了监视对 <code>DOM树</code> 所做更改的能力。它被设计为旧的 <code>Mutation Events</code> 功能的替代品，该功能是 <code>DOM3 Events</code> 规范的一部分。</li>
+<li><a href="https://v3.vuejs.org/" rel="nofollow">Vue3 API</a>
+<ul dir="auto">
+<li><a href="https://v3.vuejs.org/api/options-data.html#props" rel="nofollow">props</a></li>
+<li><a href="https://v3.vuejs.org/api/sfc-script-setup.html#basic-syntax" rel="nofollow">&lt;script setup&gt;</a></li>
+<li><a href="https://v3.vuejs.org/api/composition-api.html#lifecycle-hooks" rel="nofollow">Lifecycle Hooks</a></li>
+<li><a href="https://v3.vuejs.org/api/sfc-script-setup.html#defineprops-and-defineemits" rel="nofollow">defineProps and defineEmits</a></li>
+<li><a href="https://v3.vuejs.org/api/sfc-script-setup.html#defineexpose" rel="nofollow">defineExpose</a></li>
+</ul>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[Awesome  React]]></title>
+  <link>https://github.com/lencx/z/discussions/11</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/11</guid>
+  <pubDate>2021-09-24</pubDate>
+  <description><![CDATA[<h3 dir="auto">Frame</h3>
+<ul dir="auto">
+<li><a href="https://create-react-app.dev/" rel="nofollow">Create React App</a> - Set up a modern web app by running one command.</li>
+<li><a href="https://umijs.org/" rel="nofollow">UmiJS</a> - <g-emoji class="g-emoji" alias="rice_ball" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f359.png">🍙</g-emoji> Extensible enterprise-level front-end application framework.</li>
+<li><a href="https://github.com/vitejs/vite/tree/main/packages/create-vite">create-vite</a> - Scaffolding Your First Vite Project</li>
+</ul>
+<h3 dir="auto">UI &amp; Components</h3>
+<ul dir="auto">
+<li><a href="https://github.com/mui-org/material-ui">Material-UI</a> - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.</li>
+<li><a href="https://github.com/ant-design/ant-design">Ant Design</a> - An enterprise-class UI design language and React UI library.</li>
+<li><a href="https://github.com/chakra-ui/chakra-ui">Chakra UI</a> - <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji> Simple, Modular &amp; Accessible UI Components for your React Applications</li>
+<li><a href="https://github.com/bytedance/guide">bytedance/guide</a> - A new feature guide component by react <g-emoji class="g-emoji" alias="compass" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ed.png">🧭</g-emoji></li>
+<li><a href="https://github.com/jedwatson/react-select">React-Select</a> - The Select Component for React.js</li>
+<li><a href="https://github.com/timolins/react-hot-toast">react-hot-toast</a> - Smoking hot React Notifications <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji></li>
+<li><a href="https://github.com/xiaolin/react-image-gallery">React Image Gallery</a> - React carousel image gallery component with thumbnail support <g-emoji class="g-emoji" alias="framed_picture" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5bc.png">🖼</g-emoji></li>
+<li><a href="https://github.com/brillout/awesome-react-components"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Absolutely Awesome React Components &amp; Libraries</a> - Curated List of React Components &amp; Libraries.</li>
+<li><a href="https://github.com/fkhadra/react-toastify">react-toastify</a> - React notification made easy <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> !</li>
+<li><a href="https://github.com/atlassian/react-beautiful-dnd">react-beautiful-dnd</a> - Beautiful and accessible drag and drop for lists with React.</li>
+</ul>
+<h3 dir="auto">Hooks</h3>
+<ul dir="auto">
+<li><a href="https://github.com/rehooks/awesome-react-hooks">awesome-react-hooks</a> - Awesome React Hooks</li>
+<li><a href="https://github.com/streamich/react-use">react-use</a> - React Hooks — <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji></li>
+<li><a href="https://github.com/imbhargav5/rooks">rooks</a> - Essential React custom hooks <g-emoji class="g-emoji" alias="anchor" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2693.png">⚓</g-emoji> to super charge your components!</li>
+<li><a href="https://github.com/pmndrs/use-gesture">@use-gesture</a> - <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.</li>
+<li><a href="https://github.com/ava/use-http">useFetch</a> - <g-emoji class="g-emoji" alias="dog" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f436.png">🐶</g-emoji> React hook for making isomorphic http requests</li>
+<li><a href="https://github.com/pmndrs/use-cannon">@react-three/cannon</a> - <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji><g-emoji class="g-emoji" alias="bomb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png">💣</g-emoji> physics based hooks for react-three-fiber</li>
+<li><a href="https://github.com/Swizec/useAuth">useAuth</a> - The simplest way to add authentication to your React app. Supports various providers.</li>
+<li><a href="https://github.com/alewin/useWorker">useWorker</a> - A React Hook for Blocking-Free Background Tasks</li>
+<li><a href="https://github.com/joshwcomeau/use-sound">useSound</a> - A React Hook for playing sound effects</li>
+<li><a href="https://github.com/react-hook-form/react-hook-form">react-hook-form</a> - <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">📋</g-emoji> React Hooks for forms validation (Web + React Native)</li>
+</ul>
+<h3 dir="auto">State</h3>
+<ul dir="auto">
+<li><a href="https://github.com/reduxjs/react-redux">react-redux</a> - Official React bindings for Redux.
+<ul dir="auto">
+<li><a href="https://github.com/reduxjs/redux-toolkit">@reduxjs/toolkit</a> - The official, opinionated, batteries-included toolset for efficient Redux development</li>
+</ul>
+</li>
+<li><a href="https://github.com/facebookexperimental/recoil">recoil</a> - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.</li>
+<li><a href="https://github.com/bluebill1049/little-state-machine">little-state-machine</a> - <g-emoji class="g-emoji" alias="fax" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e0.png">📠</g-emoji> React custom hook for persist state management</li>
+<li><a href="https://github.com/mobxjs/mobx">mobx</a> - Simple, scalable state management.</li>
+<li><a href="https://github.com/umijs">UmiJS</a> - Extensible enterprise-level front-end application framework.
+<ul dir="auto">
+<li><a href="https://github.com/dvajs/dva">dva</a> -  <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)</li>
+<li><a href="https://github.com/umijs/plugins/tree/master/packages/plugin-model">@umijs/plugin-model</a> -A simple state management solution based on hooks (can be replacement of dva in some cases).</li>
+<li><a href="https://github.com/umijs/hox">hox</a> - The next-generation state manager for React.</li>
+</ul>
+</li>
+<li><a href="https://github.com/immerjs/immer">immer</a> - Create the next immutable state by mutating the current one.</li>
+<li><a href="https://github.com/jamiebuilds/unstated-next">unstated-next</a> - 200 bytes to never think about React state management libraries ever again.</li>
+<li><a href="https://github.com/effector/effector">effector</a> - The state manager <g-emoji class="g-emoji" alias="comet" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2604.png">☄️</g-emoji></li>
+<li><a href="https://github.com/pmndrs/valtio">valtio</a> - <g-emoji class="g-emoji" alias="pill" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48a.png">💊</g-emoji> Valtio makes proxy-state simple for React and Vanilla.</li>
+<li><a href="https://github.com/ctrlplusb/easy-peasy">easy-peasy</a> - Vegetarian friendly state for React.</li>
+<li><a href="https://github.com/diegohaz/constate">constate</a> - React Context + State</li>
+<li><a href="https://github.com/RisingStack/react-easy-state">react-easy-state</a> - Simple React state management. Made with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> and ES6 Proxies.</li>
+<li><a href="https://github.com/lostpebble/pullstate">pullstate</a> - Simple state stores using immer and React hooks - re-use parts of your state by pulling it anywhere you like!</li>
+</ul>
+<h3 dir="auto">Animation</h3>
+<ul dir="auto">
+<li><a href="https://react-spring.io/" rel="nofollow">react-spring</a> - bring your components to life with simple spring animation primitives</li>
+<li><a href="https://github.com/chenglou/react-motion">React-Motion</a> - A spring that solves your animation problems.</li>
+<li><a href="https://github.com/framer/motion">Framer Motion</a> - Open source, production-ready animation and gesture library for React</li>
+<li><a href="https://github.com/reactjs/react-transition-group">react-transition-group</a> - An easy way to perform animations when a React component enters or leaves the DOM</li>
+<li><a href="https://github.com/sghall/react-move">React Move</a> - React Move | Beautiful, data-driven animations for React</li>
+</ul>
+<h3 dir="auto">Browser Extension</h3>
+<ul dir="auto">
+<li><a href="https://github.com/reduxjs/redux-devtools">Redux DevTools</a> - DevTools for Redux with hot reloading, action replay, and customizable UI.</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[开发问题汇总]]></title>
+  <link>https://github.com/lencx/z/discussions/71</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/71</guid>
+  <pubDate>2021-09-23</pubDate>
+  <description><![CDATA[<p dir="auto"><a href="https://github.com/lencx/z/discussions/70" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/70/hovercard">解决问题之经验篇</a></p>
+<blockquote>
+<p dir="auto">问题清单</p>
+</blockquote>
+<ul dir="auto">
+<li>什么是 <code>disk-cache</code></li>
+<li>浏览器缓存问题（线上代码未更新）</li>
+<li>...</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[解决问题之经验篇]]></title>
+  <link>https://github.com/lencx/z/discussions/70</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/70</guid>
+  <pubDate>2021-09-23</pubDate>
+  <description><![CDATA[<blockquote>
+<p dir="auto">问题不可能被穷举，答案经验有时候并不足以让我们应付千奇百怪的问题。在题海中，培养自己分析，定位，解决问题的能力似乎才是我们唯一的出路（以不变应万变）。</p>
+</blockquote>
+<p dir="auto"><strong>一般问题解决步骤：</strong></p>
+<ol dir="auto">
+<li><code>遇到问题</code>（不要慌）
+<ul dir="auto">
+<li>这个问题没见过，咋搞呀</li>
+<li>我正好有个技术群，丢个报错截图去问问</li>
+<li>...</li>
+</ul>
+</li>
+<li><code>分析问题</code>（抽丝剥茧）
+<ul dir="auto">
+<li>多问自己为什么，从问题报错处，排除干扰，向上 <code>debugger</code></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E5%B0%8F%E9%BB%84%E9%B8%AD%E8%B0%83%E8%AF%95%E6%B3%95" rel="nofollow">小黄鸭调试法</a> - 小黄鸭调试法，又称橡皮鸭调试法、黄鸭除虫法（Rubber Duck Debugging）是可在软件工程中使用的一种调试代码的方法。方法就是在程序的调试或测试过程中，操作人耐心地向小黄鸭解释每一行程序的作用，以此来激发灵感与发现矛盾</li>
+</ul>
+</li>
+<li><code>描述问题</code>（提取关键词）
+<ul dir="auto">
+<li><code>清楚表达问题</code> - 很重要，直接影响到后面的关键词提取</li>
+<li><code>关键词转英文</code> - 推荐两个翻译网站 <a href="https://translate.google.cn/" rel="nofollow">Google 翻译</a> 和 <a href="https://www.deepl.com/" rel="nofollow">Deepl</a></li>
+</ul>
+</li>
+<li><code>关键词搜索</code>（中，英文）
+<ul dir="auto">
+<li><code>中文</code> - 国内太卷，抄袭严重，问题没有出处。除非是特定问题（微信小程序之类的问题），否则不建议使用中文搜索</li>
+<li><code>英文</code> - 质量要高很多，推荐使用 <a href="https://www.google.com/" rel="nofollow">Google</a> 搜索，替代品 <a href="https://www.bing.com/" rel="nofollow">Bing</a> 搜索</li>
+</ul>
+</li>
+<li><code>解决问题</code>（总结经验）
+<ul dir="auto">
+<li><code>反思总结</code> - 沉淀是为了让自己能够举一反三</li>
+<li><code>分享经验</code> - 表达是为了进一步加深理解</li>
+</ul>
+</li>
+</ol>
+<p dir="auto"><strong>如果以上步骤无法解决问题，向别人请教之前，以下几点是必须要做的：</strong></p>
+<ul dir="auto">
+<li><code>看官方文档</code>（重要的事情说三遍）</li>
+<li><code>开源库或框架遇到问题，逛社区</code>（别偷懒） - <a href="https://guides.github.com/features/issues/">issues</a>，<a href="https://docs.github.com/en/discussions">discussions</a>，<a href="https://stackoverflow.com/" rel="nofollow">stack overflow</a> 必看</li>
+<li><code>问题仍无法解决，则需剥离业务逻辑，提供最小复现用例</code>（节约彼此时间）- 别人未遇到过的问题，并不能靠空想解答，即使可以，也不建议进行这样的试探</li>
+</ul>
+<p dir="auto"><strong>如果以上步骤都做了，仍然无法解决问题，则可以在项目 <code>issues</code> 或 <code>stack overflow</code> 等问题社区发起提问：</strong></p>
+<ul dir="auto">
+<li><code>问题描述</code> - 简洁清楚的表达问题，切记啰嗦</li>
+<li><code>环境信息</code> - 问题发生的环境（系统信息，软件版本，浏览器版本等）</li>
+<li><code>如何复现</code> - 提供问题复现步骤 1，2，3，可以配合适当的错误截图及说明
+<ul dir="auto">
+<li><code>复现用例</code> - 用例要排除业务干扰，缩小问题范围</li>
+<li><code>我的尝试</code> - 自己做过哪些尝试，也可以让别人快速排除一些干扰项</li>
+</ul>
+</li>
+<li><code>预期结果</code> - 希望得到什么样的结果</li>
+</ul>]]></description>
+</item>
+
+</channel>
+</rss>
